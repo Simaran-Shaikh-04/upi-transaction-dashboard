@@ -24,14 +24,14 @@ Core questions answered:
 | Detail | Info |
 |---|---|
 | **Source** | Kaggle — publicly available dataset |
-| **Dataset** | UPI Transaction Records 2024 |
+| **Link** | [UPI Transaction Dataset — Kaggle](https://www.kaggle.com/code/yogeshwarchoudhary/upi-transaction-2024-advanced-analysis) |
 | **Original Size** | 2,50,000 rows · 17 columns |
 | **Sample Uploaded** | First 1,000 rows (cleaned) |
 | **Licence** | Public / Open Dataset |
 
-> Full dataset available on Kaggle. 
-> Sample uploaded here for reference only.
-> All analysis was performed on the complete 250K dataset.
+> Full dataset available on Kaggle link above.
+> Sample of 1,000 rows uploaded here for reference.
+> All analysis performed on the complete 250K dataset.
 
 ---
 
