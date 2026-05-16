@@ -19,6 +19,22 @@ Core questions answered:
 
 ---
 
+## 📦 Data Source
+
+| Detail | Info |
+|---|---|
+| **Source** | Kaggle — publicly available dataset |
+| **Dataset** | UPI Transaction Records 2024 |
+| **Original Size** | 2,50,000 rows · 17 columns |
+| **Sample Uploaded** | First 1,000 rows (cleaned) |
+| **Licence** | Public / Open Dataset |
+
+> Full dataset available on Kaggle. 
+> Sample uploaded here for reference only.
+> All analysis was performed on the complete 250K dataset.
+
+---
+
 ## 🏗️ Dashboard Architecture — 3 Pages
 
 ### Page 1 — Executive Summary
@@ -111,19 +127,20 @@ Success Rate % = DIVIDE([Successful Transactions], [Total Transactions], 0)
 ```
 upi-transaction-dashboard/
 │
-├── README.md                          ← You are here
-├── UPI_Dashboard.pbix                 ← Power BI project file
+├── README.md                        ← Project story + findings
+├── UPI_Dashboard.pbix               ← Actual Power BI file
+│
+├── images/
+│   ├── page1-executive-summary.png  ← Dashboard screenshot
+│   ├── page2-transaction-analysis.png
+│   └── page3-fraud-intelligence.png
 │
 ├── data/
-│   └── upi_transactions_sample.csv   ← Sample (1,000 rows) for reference
+│   ├── upi_transactions_sample.csv  ← 1,000 rows cleaned data
+│   └── data_dictionary.md           ← What each column means
 │
-├── reports/
-│   └── UPI_Dashboard_Summary.pdf     ← Exported PDF of all 3 dashboard pages
-│
-└── images/
-    ├── page1-executive-summary.png
-    ├── page2-transaction-analysis.png
-    └── page3-fraud-intelligence.png
+└── reports/
+    └── UPI_Dashboard_Summary.pdf    ← Exported PDF of dashboard
 ```
 
 ---
