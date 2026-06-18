@@ -1,0 +1,1001 @@
+Date,Amount_INR,Transaction_Status,Fraud_Flag,Is_Success,State,Merchant_Category,Transaction_Type,Device_Type,Network_Type,Sender_Bank,Receiver_Bank,Sender_Age_Group,Transaction_Authenticity
+2024-03-05,1019,Success,0,1,West Bengal,Utilities,Bill Payment,Android,4G,HDFC,PNB,26-35,Authenticated
+2024-12-12,318,Success,0,1,Andhra Pradesh,Other,Recharge,iOS,4G,ICICI,UPI-Pay,26-35,Authenticated
+2024-02-21,362,Success,0,1,Rajasthan,Grocery,P2M,Android,WiFi,ICICI,Axis,26-35,Authenticated
+2024-08-10,685,Success,0,1,Karnataka,Other,P2P,Android,5G,Paytm Bank,HDFC,36-45,Authenticated
+2024-05-15,783,Success,0,1,Andhra Pradesh,Entertainment,P2M,Android,WiFi,Yes Bank,HDFC,36-45,Authenticated
+2024-02-07,1216,Success,0,1,Maharashtra,Utilities,Bill Payment,Android,WiFi,ICICI,PNB,26-35,Authenticated
+2024-07-31,356,Success,0,1,Delhi,Grocery,P2M,iOS,4G,HDFC,Axis,36-45,Authenticated
+2024-04-25,190,Success,0,1,West Bengal,Other,P2M,Android,4G,Yes Bank,Paytm Bank,36-45,Authenticated
+2024-12-18,1466,Success,0,1,Gujarat,Other,P2M,Android,4G,Yes Bank,UPI-Pay,26-35,Authenticated
+2024-04-20,433,Success,0,1,Telangana,Utilities,Bill Payment,Android,5G,PNB,HDFC,18-25,Authenticated
+2024-12-16,876,Failed,0,0,Rajasthan,Other,Recharge,iOS,5G,Axis,ICICI,26-35,Authenticated
+2024-05-19,791,Success,0,1,Telangana,Utilities,Bill Payment,Android,4G,SBI,Paytm Bank,18-25,Authenticated
+2024-07-04,648,Failed,0,0,Andhra Pradesh,Healthcare,P2M,Android,4G,HDFC,SBI,18-25,Authenticated
+2024-02-21,345,Success,0,1,Telangana,Utilities,Bill Payment,Android,WiFi,UPI-Pay,SBI,56+,Authenticated
+2024-05-02,198,Success,0,1,Delhi,Other,P2P,Android,5G,UPI-Pay,Axis,18-25,Authenticated
+2024-08-02,530,Success,0,1,Rajasthan,Other,Recharge,Android,4G,Paytm Bank,UPI-Pay,36-45,Authenticated
+2024-08-12,1315,Success,0,1,Uttar Pradesh,Other,P2P,Android,5G,Paytm Bank,SBI,36-45,Authenticated
+2024-04-17,1360,Success,0,1,Maharashtra,Entertainment,P2M,Android,4G,SBI,HDFC,36-45,Authenticated
+2024-12-15,1409,Success,0,1,Gujarat,Transport,P2M,Android,4G,Axis,ICICI,18-25,Authenticated
+2024-11-12,796,Success,0,1,Rajasthan,Other,P2P,Android,5G,HDFC,ICICI,26-35,Authenticated
+2024-11-24,1029,Success,0,1,Andhra Pradesh,Other,P2P,Android,5G,SBI,PNB,18-25,Authenticated
+2024-05-25,706,Success,0,1,Gujarat,Other,P2P,Android,5G,HDFC,SBI,26-35,Authenticated
+2024-07-31,153,Success,0,1,Karnataka,Other,P2P,Android,WiFi,HDFC,SBI,18-25,Authenticated
+2024-11-07,898,Success,0,1,Maharashtra,Other,P2P,Android,4G,Axis,ICICI,18-25,Authenticated
+2024-01-10,645,Success,0,1,Karnataka,Other,P2P,Android,4G,Yes Bank,HDFC,18-25,Authenticated
+2024-06-14,1380,Success,0,1,Andhra Pradesh,Other,P2P,Android,4G,Paytm Bank,PNB,36-45,Authenticated
+2024-01-23,1220,Success,0,1,Uttar Pradesh,Other,P2P,iOS,4G,Axis,SBI,26-35,Authenticated
+2024-05-04,1331,Success,0,1,Rajasthan,Other,P2P,Android,4G,SBI,PNB,26-35,Authenticated
+2024-03-23,431,Failed,0,0,Maharashtra,Utilities,Bill Payment,Android,4G,Yes Bank,ICICI,36-45,Authenticated
+2024-12-10,590,Success,0,1,Karnataka,Utilities,Bill Payment,Android,4G,Yes Bank,Axis,36-45,Authenticated
+2024-08-28,1225,Success,0,1,Gujarat,Healthcare,P2M,Android,4G,HDFC,Paytm Bank,18-25,Authenticated
+2024-05-07,1063,Success,0,1,Gujarat,Fuel,P2M,iOS,5G,HDFC,Paytm Bank,26-35,Authenticated
+2024-06-12,256,Success,0,1,Uttar Pradesh,Utilities,Bill Payment,Android,5G,Paytm Bank,HDFC,56+,Authenticated
+2024-12-14,1138,Success,0,1,Tamil Nadu,Other,P2P,Android,5G,ICICI,Paytm Bank,36-45,Authenticated
+2024-10-02,434,Success,0,1,Delhi,Other,P2P,iOS,4G,PNB,Paytm Bank,36-45,Authenticated
+2024-06-22,917,Success,0,1,West Bengal,Other,Recharge,Android,WiFi,Paytm Bank,Yes Bank,26-35,Authenticated
+2024-09-05,748,Success,0,1,Rajasthan,Other,P2P,iOS,4G,SBI,PNB,18-25,Suspicious
+2024-09-30,6865,Success,0,1,Telangana,Other,P2P,Android,4G,HDFC,ICICI,46-55,Authenticated
+2024-11-28,1133,Success,0,1,Maharashtra,Other,P2P,Android,4G,Yes Bank,Paytm Bank,26-35,Authenticated
+2024-05-07,1119,Success,0,1,Delhi,Other,P2P,Android,4G,SBI,Paytm Bank,18-25,Suspicious
+2024-02-22,605,Success,0,1,Tamil Nadu,Other,P2M,iOS,5G,Paytm Bank,PNB,56+,Authenticated
+2024-10-22,1478,Success,0,1,Maharashtra,Other,P2P,iOS,5G,Yes Bank,SBI,46-55,Authenticated
+2024-01-26,963,Success,0,1,Telangana,Utilities,Bill Payment,Android,5G,Paytm Bank,UPI-Pay,26-35,Authenticated
+2024-11-20,1313,Success,0,1,Tamil Nadu,Other,P2P,Android,4G,SBI,PNB,18-25,Authenticated
+2024-05-28,1099,Success,0,1,Maharashtra,Utilities,Bill Payment,Android,4G,SBI,PNB,26-35,Authenticated
+2024-05-07,279,Failed,0,0,West Bengal,Other,P2P,Android,4G,HDFC,UPI-Pay,46-55,Authenticated
+2024-03-03,778,Success,0,1,Uttar Pradesh,Other,P2P,iOS,WiFi,UPI-Pay,Yes Bank,26-35,Authenticated
+2024-07-07,1213,Success,0,1,Tamil Nadu,Utilities,Bill Payment,Android,5G,Yes Bank,SBI,36-45,Authenticated
+2024-05-04,908,Success,0,1,Tamil Nadu,Utilities,Bill Payment,Android,5G,ICICI,Yes Bank,26-35,Authenticated
+2024-04-08,287,Success,0,1,Karnataka,Other,P2P,Android,4G,PNB,ICICI,26-35,Authenticated
+2024-10-18,598,Success,0,1,Gujarat,Other,P2P,Android,5G,Axis,ICICI,18-25,Authenticated
+2024-10-28,793,Success,0,1,Maharashtra,Other,P2P,Android,4G,ICICI,Paytm Bank,26-35,Authenticated
+2024-02-14,269,Failed,0,0,Uttar Pradesh,Grocery,P2M,Android,5G,UPI-Pay,ICICI,18-25,Authenticated
+2024-01-29,561,Success,0,1,Uttar Pradesh,Other,P2P,Android,5G,Yes Bank,UPI-Pay,36-45,Authenticated
+2024-06-26,1295,Success,0,1,Maharashtra,Transport,P2M,Android,4G,ICICI,PNB,36-45,Authenticated
+2024-11-02,668,Success,0,1,Rajasthan,Other,P2P,Android,4G,Paytm Bank,PNB,46-55,Authenticated
+2024-04-22,271,Success,0,1,Maharashtra,Utilities,Bill Payment,iOS,5G,Yes Bank,ICICI,26-35,Authenticated
+2024-03-09,619,Success,0,1,Tamil Nadu,Utilities,Bill Payment,Android,4G,Yes Bank,UPI-Pay,18-25,Authenticated
+2024-01-04,5525,Success,0,1,Delhi,Other,P2P,Android,5G,UPI-Pay,SBI,18-25,Authenticated
+2024-06-22,7209,Success,0,1,Maharashtra,Other,P2P,iOS,4G,PNB,HDFC,36-45,Authenticated
+2024-12-12,399,Success,0,1,Rajasthan,Other,P2P,Android,4G,HDFC,ICICI,36-45,Authenticated
+2024-06-21,167,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,SBI,UPI-Pay,26-35,Authenticated
+2024-04-11,1230,Success,0,1,Karnataka,Other,P2P,Android,5G,SBI,Yes Bank,36-45,Authenticated
+2024-06-16,1123,Success,0,1,Telangana,Utilities,Bill Payment,Android,4G,Yes Bank,HDFC,56+,Authenticated
+2024-02-05,709,Success,0,1,Andhra Pradesh,Utilities,P2M,Android,WiFi,UPI-Pay,Paytm Bank,56+,Authenticated
+2024-07-06,588,Success,0,1,Telangana,Other,P2P,Android,4G,ICICI,Axis,56+,Authenticated
+2024-12-03,605,Success,0,1,Maharashtra,Grocery,P2M,Android,WiFi,UPI-Pay,SBI,26-35,Authenticated
+2024-06-07,894,Success,0,1,Telangana,Shopping,P2M,Android,WiFi,ICICI,PNB,18-25,Authenticated
+2024-10-03,8280,Success,0,1,Uttar Pradesh,Shopping,P2M,Android,5G,Axis,SBI,26-35,Authenticated
+2024-08-01,1189,Success,0,1,Tamil Nadu,Other,P2P,Android,5G,SBI,ICICI,36-45,Authenticated
+2024-08-02,1380,Failed,0,0,Uttar Pradesh,Fuel,P2M,Android,5G,HDFC,ICICI,18-25,Authenticated
+2024-04-24,179,Success,0,1,Karnataka,Healthcare,P2M,Android,4G,Paytm Bank,ICICI,18-25,Authenticated
+2024-03-30,1479,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,PNB,Axis,26-35,Authenticated
+2024-01-15,712,Success,0,1,Tamil Nadu,Other,P2P,Android,4G,Axis,HDFC,26-35,Authenticated
+2024-10-26,462,Success,0,1,West Bengal,Fuel,P2M,iOS,5G,PNB,Paytm Bank,36-45,Authenticated
+2024-02-05,432,Success,0,1,Maharashtra,Fuel,P2M,Android,WiFi,SBI,UPI-Pay,26-35,Authenticated
+2024-02-07,1411,Success,0,1,Karnataka,Other,P2P,iOS,5G,HDFC,ICICI,26-35,Authenticated
+2024-01-13,6886,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,HDFC,Yes Bank,36-45,Authenticated
+2024-03-16,426,Success,0,1,Telangana,Other,P2P,Android,4G,Paytm Bank,PNB,36-45,Authenticated
+2024-12-21,1441,Success,0,1,Rajasthan,Other,P2P,Android,4G,ICICI,SBI,26-35,Authenticated
+2024-01-30,959,Success,0,1,Uttar Pradesh,Utilities,Bill Payment,Android,5G,Paytm Bank,HDFC,36-45,Authenticated
+2024-07-22,856,Success,0,1,Delhi,Other,P2M,iOS,5G,SBI,Axis,46-55,Authenticated
+2024-04-01,1459,Success,0,1,Delhi,Food,P2M,Android,4G,SBI,Yes Bank,56+,Authenticated
+2024-11-10,1095,Success,0,1,Karnataka,Shopping,P2M,Android,4G,SBI,UPI-Pay,26-35,Authenticated
+2024-09-05,902,Success,0,1,Uttar Pradesh,Shopping,P2M,iOS,4G,UPI-Pay,Axis,46-55,Authenticated
+2024-06-28,154,Success,0,1,Andhra Pradesh,Transport,P2M,iOS,WiFi,Paytm Bank,Yes Bank,36-45,Authenticated
+2024-08-27,845,Success,0,1,Rajasthan,Utilities,Bill Payment,iOS,4G,ICICI,Axis,26-35,Authenticated
+2024-06-08,679,Success,0,1,Maharashtra,Other,P2P,Android,4G,Yes Bank,ICICI,26-35,Authenticated
+2024-11-25,862,Success,0,1,Gujarat,Transport,P2M,Android,4G,UPI-Pay,SBI,36-45,Authenticated
+2024-01-03,659,Success,0,1,Uttar Pradesh,Utilities,P2M,Android,4G,Yes Bank,ICICI,56+,Authenticated
+2024-11-19,838,Success,0,1,Maharashtra,Utilities,P2M,iOS,4G,ICICI,Paytm Bank,26-35,Authenticated
+2024-10-25,1045,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,HDFC,SBI,26-35,Authenticated
+2024-10-24,145,Success,0,1,Karnataka,Food,P2M,Android,5G,UPI-Pay,SBI,36-45,Authenticated
+2024-01-22,1269,Failed,0,0,West Bengal,Other,P2P,Android,4G,Yes Bank,UPI-Pay,18-25,Authenticated
+2024-09-19,3858,Failed,0,0,Tamil Nadu,Other,P2P,Android,4G,PNB,HDFC,36-45,Authenticated
+2024-12-11,485,Success,0,1,West Bengal,Other,P2P,iOS,4G,Paytm Bank,SBI,18-25,Authenticated
+2024-11-25,1207,Success,0,1,Gujarat,Other,P2P,iOS,4G,PNB,ICICI,18-25,Authenticated
+2024-01-24,240,Success,0,1,Maharashtra,Food,P2M,Android,5G,PNB,HDFC,26-35,Authenticated
+2024-07-18,1464,Success,0,1,Gujarat,Other,P2P,iOS,4G,UPI-Pay,Axis,36-45,Authenticated
+2024-04-08,174,Success,0,1,Uttar Pradesh,Healthcare,P2M,Android,4G,SBI,UPI-Pay,26-35,Authenticated
+2024-09-10,1425,Success,0,1,Maharashtra,Other,P2M,Android,4G,SBI,UPI-Pay,36-45,Authenticated
+2024-04-28,1069,Success,0,1,Tamil Nadu,Utilities,Bill Payment,Android,4G,SBI,PNB,18-25,Authenticated
+2024-03-06,1420,Success,0,1,Karnataka,Other,P2P,iOS,4G,Yes Bank,Paytm Bank,36-45,Authenticated
+2024-02-12,1397,Success,0,1,Karnataka,Other,P2P,Android,4G,Yes Bank,HDFC,26-35,Authenticated
+2024-03-10,5317,Success,0,1,Karnataka,Utilities,Bill Payment,Android,5G,Axis,PNB,36-45,Authenticated
+2024-02-03,513,Success,0,1,Gujarat,Other,P2P,Android,5G,PNB,UPI-Pay,26-35,Authenticated
+2024-01-22,1179,Success,0,1,Delhi,Transport,P2M,Android,4G,PNB,Yes Bank,26-35,Authenticated
+2024-10-18,127,Success,0,1,Maharashtra,Utilities,Bill Payment,Android,4G,Axis,ICICI,36-45,Authenticated
+2024-10-04,763,Success,0,1,Uttar Pradesh,Other,P2P,Android,WiFi,Axis,SBI,36-45,Authenticated
+2024-08-07,475,Failed,0,0,Uttar Pradesh,Utilities,Bill Payment,Android,4G,ICICI,Paytm Bank,18-25,Authenticated
+2024-10-27,1450,Success,0,1,West Bengal,Other,P2P,iOS,5G,SBI,UPI-Pay,26-35,Authenticated
+2024-01-29,135,Success,0,1,Gujarat,Other,P2P,Android,4G,Paytm Bank,Yes Bank,26-35,Authenticated
+2024-07-28,553,Success,0,1,Maharashtra,Other,Recharge,Android,4G,UPI-Pay,ICICI,26-35,Authenticated
+2024-01-27,621,Success,0,1,Gujarat,Healthcare,P2M,Android,5G,SBI,PNB,36-45,Authenticated
+2024-02-19,477,Success,0,1,Rajasthan,Healthcare,P2M,Android,4G,UPI-Pay,PNB,36-45,Authenticated
+2024-12-01,7964,Success,0,1,West Bengal,Other,P2P,iOS,5G,Paytm Bank,HDFC,46-55,Authenticated
+2024-08-04,950,Success,0,1,Delhi,Other,P2P,Android,4G,PNB,ICICI,36-45,Authenticated
+2024-03-11,439,Success,0,1,Uttar Pradesh,Utilities,P2M,iOS,4G,SBI,PNB,36-45,Authenticated
+2024-03-21,3864,Success,0,1,Delhi,Other,P2P,iOS,WiFi,Yes Bank,ICICI,26-35,Authenticated
+2024-03-23,280,Success,0,1,West Bengal,Other,P2P,iOS,4G,UPI-Pay,PNB,36-45,Authenticated
+2024-03-08,278,Success,0,1,Gujarat,Other,P2P,Android,4G,PNB,HDFC,18-25,Authenticated
+2024-11-30,988,Success,0,1,Karnataka,Other,P2P,Android,5G,PNB,UPI-Pay,46-55,Authenticated
+2024-02-20,1017,Success,0,1,Maharashtra,Utilities,Bill Payment,Android,4G,Yes Bank,Paytm Bank,18-25,Authenticated
+2024-01-03,1235,Success,0,1,Maharashtra,Utilities,Bill Payment,Android,WiFi,Paytm Bank,PNB,36-45,Authenticated
+2024-11-19,648,Success,0,1,Karnataka,Other,P2P,Android,4G,HDFC,UPI-Pay,36-45,Authenticated
+2024-08-09,881,Success,0,1,Maharashtra,Other,P2P,Android,WiFi,Yes Bank,ICICI,26-35,Authenticated
+2024-11-17,777,Success,0,1,Gujarat,Food,P2M,Android,4G,Yes Bank,SBI,36-45,Authenticated
+2024-12-01,4227,Success,0,1,Tamil Nadu,Other,P2M,iOS,4G,Paytm Bank,HDFC,36-45,Authenticated
+2024-10-23,840,Success,0,1,Maharashtra,Food,P2M,iOS,4G,UPI-Pay,Paytm Bank,18-25,Authenticated
+2024-06-04,916,Success,0,1,Tamil Nadu,Fuel,P2M,Android,4G,ICICI,Paytm Bank,18-25,Authenticated
+2024-06-15,1045,Success,0,1,Tamil Nadu,Other,P2P,Android,WiFi,ICICI,PNB,36-45,Authenticated
+2024-04-11,993,Success,0,1,Uttar Pradesh,Healthcare,P2M,Android,WiFi,Axis,Paytm Bank,36-45,Authenticated
+2024-08-06,338,Success,0,1,Tamil Nadu,Other,P2P,Android,4G,PNB,SBI,26-35,Authenticated
+2024-09-06,2155,Success,0,1,Uttar Pradesh,Other,P2P,Android,5G,PNB,Yes Bank,26-35,Authenticated
+2024-10-28,5381,Success,0,1,Karnataka,Other,P2P,Android,4G,Paytm Bank,SBI,26-35,Suspicious
+2024-06-25,994,Success,0,1,Rajasthan,Other,P2P,Android,4G,HDFC,Paytm Bank,18-25,Authenticated
+2024-09-08,245,Success,0,1,Uttar Pradesh,Entertainment,P2M,Android,4G,Axis,HDFC,26-35,Authenticated
+2024-10-14,1297,Success,0,1,Maharashtra,Utilities,P2M,Android,4G,UPI-Pay,SBI,56+,Authenticated
+2024-04-28,377,Success,0,1,Gujarat,Other,P2P,Android,4G,Yes Bank,Paytm Bank,36-45,Authenticated
+2024-10-22,335,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,Axis,PNB,26-35,Authenticated
+2024-05-20,1235,Success,0,1,Maharashtra,Entertainment,P2M,Android,4G,Axis,SBI,36-45,Authenticated
+2024-08-26,820,Success,0,1,Maharashtra,Other,P2P,Android,WiFi,Paytm Bank,ICICI,46-55,Authenticated
+2024-05-11,385,Success,0,1,Gujarat,Utilities,Bill Payment,Android,4G,Paytm Bank,Yes Bank,56+,Authenticated
+2024-10-25,261,Success,0,1,Andhra Pradesh,Education,P2M,Android,4G,HDFC,Paytm Bank,18-25,Authenticated
+2024-02-28,307,Success,0,1,Karnataka,Other,P2P,Android,4G,PNB,Paytm Bank,18-25,Authenticated
+2024-11-17,215,Success,0,1,Telangana,Other,P2M,Android,4G,Yes Bank,Axis,56+,Authenticated
+2024-02-19,398,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,Paytm Bank,PNB,56+,Authenticated
+2024-09-13,797,Success,0,1,Andhra Pradesh,Other,P2P,Android,4G,Axis,Yes Bank,26-35,Authenticated
+2024-06-26,939,Success,0,1,Maharashtra,Other,Recharge,Android,WiFi,PNB,SBI,36-45,Suspicious
+2024-03-22,325,Success,0,1,Karnataka,Other,P2P,iOS,4G,Yes Bank,Paytm Bank,46-55,Authenticated
+2024-01-21,116,Success,0,1,Tamil Nadu,Other,P2P,iOS,5G,SBI,Paytm Bank,36-45,Authenticated
+2024-09-22,863,Success,0,1,Delhi,Other,P2P,iOS,4G,Axis,UPI-Pay,26-35,Authenticated
+2024-02-29,213,Success,0,1,Rajasthan,Utilities,Bill Payment,Android,5G,SBI,UPI-Pay,26-35,Authenticated
+2024-06-25,288,Success,0,1,Karnataka,Utilities,Bill Payment,iOS,4G,Paytm Bank,SBI,36-45,Authenticated
+2024-11-19,1069,Success,0,1,Karnataka,Utilities,Bill Payment,iOS,4G,Paytm Bank,UPI-Pay,26-35,Authenticated
+2024-04-13,854,Success,0,1,Rajasthan,Other,P2P,Android,4G,PNB,UPI-Pay,18-25,Authenticated
+2024-02-16,657,Success,0,1,Karnataka,Entertainment,P2M,Android,4G,Axis,UPI-Pay,26-35,Authenticated
+2024-07-06,590,Success,0,1,Delhi,Other,P2P,Android,4G,ICICI,UPI-Pay,18-25,Authenticated
+2024-09-01,513,Success,0,1,Karnataka,Fuel,P2M,Android,5G,Axis,PNB,26-35,Authenticated
+2024-06-25,1475,Success,0,1,Rajasthan,Other,P2P,iOS,4G,SBI,Paytm Bank,26-35,Authenticated
+2024-08-14,433,Success,0,1,Karnataka,Utilities,Bill Payment,Android,4G,Paytm Bank,PNB,26-35,Authenticated
+2024-01-31,1844,Success,0,1,Delhi,Shopping,P2M,Android,4G,PNB,HDFC,36-45,Authenticated
+2024-11-29,3054,Success,0,1,Rajasthan,Shopping,P2M,Android,4G,UPI-Pay,PNB,36-45,Authenticated
+2024-08-14,4621,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,PNB,ICICI,18-25,Authenticated
+2024-10-15,687,Success,0,1,Maharashtra,Shopping,P2M,Android,4G,PNB,Paytm Bank,26-35,Authenticated
+2024-02-14,136,Success,0,1,Uttar Pradesh,Other,P2P,iOS,4G,Axis,Yes Bank,26-35,Authenticated
+2024-01-18,188,Success,0,1,Tamil Nadu,Utilities,Bill Payment,Android,WiFi,UPI-Pay,ICICI,36-45,Authenticated
+2024-01-19,1414,Success,0,1,Maharashtra,Utilities,Bill Payment,Android,4G,Axis,ICICI,36-45,Authenticated
+2024-12-22,292,Success,0,1,Karnataka,Healthcare,P2M,iOS,4G,HDFC,Axis,26-35,Authenticated
+2024-06-15,539,Success,0,1,Uttar Pradesh,Other,P2P,iOS,4G,Yes Bank,ICICI,56+,Authenticated
+2024-07-03,958,Success,0,1,Uttar Pradesh,Other,P2P,Android,5G,HDFC,Yes Bank,18-25,Suspicious
+2024-12-20,630,Success,0,1,Uttar Pradesh,Other,P2P,iOS,WiFi,SBI,ICICI,36-45,Authenticated
+2024-04-16,1148,Success,0,1,West Bengal,Other,P2P,Android,4G,Axis,PNB,46-55,Authenticated
+2024-02-04,769,Success,0,1,Karnataka,Food,P2M,Android,5G,PNB,ICICI,26-35,Authenticated
+2024-03-04,915,Success,0,1,Delhi,Entertainment,P2M,iOS,5G,PNB,Axis,18-25,Authenticated
+2024-08-19,1212,Success,0,1,Gujarat,Utilities,P2M,Android,4G,Paytm Bank,Axis,36-45,Authenticated
+2024-10-25,1157,Success,0,1,Telangana,Food,P2M,Android,4G,PNB,UPI-Pay,18-25,Authenticated
+2024-10-11,885,Success,0,1,Maharashtra,Food,P2M,Android,4G,HDFC,UPI-Pay,46-55,Authenticated
+2024-10-24,335,Success,0,1,West Bengal,Utilities,Bill Payment,iOS,4G,Axis,Yes Bank,56+,Authenticated
+2024-08-19,160,Success,0,1,West Bengal,Other,P2P,Android,5G,UPI-Pay,ICICI,26-35,Authenticated
+2024-11-25,631,Success,0,1,Andhra Pradesh,Other,P2P,iOS,4G,HDFC,Axis,18-25,Authenticated
+2024-10-11,196,Success,0,1,Rajasthan,Other,Recharge,iOS,4G,Paytm Bank,HDFC,36-45,Suspicious
+2024-07-27,1329,Success,0,1,Delhi,Other,P2P,Android,4G,ICICI,SBI,18-25,Authenticated
+2024-10-13,1004,Success,0,1,Delhi,Utilities,Bill Payment,iOS,WiFi,Yes Bank,HDFC,36-45,Authenticated
+2024-03-14,519,Success,0,1,Andhra Pradesh,Other,P2P,iOS,5G,ICICI,Yes Bank,36-45,Authenticated
+2024-10-29,688,Success,0,1,Telangana,Other,P2P,Android,4G,HDFC,Paytm Bank,18-25,Authenticated
+2024-11-04,1162,Success,0,1,Telangana,Other,P2P,iOS,5G,Paytm Bank,Yes Bank,46-55,Suspicious
+2024-05-30,889,Success,0,1,Tamil Nadu,Other,P2P,Android,5G,Axis,ICICI,36-45,Authenticated
+2024-03-19,1432,Success,0,1,Tamil Nadu,Other,P2P,Android,4G,PNB,Axis,26-35,Authenticated
+2024-12-13,764,Success,0,1,Tamil Nadu,Utilities,Bill Payment,iOS,4G,PNB,Yes Bank,18-25,Authenticated
+2024-11-12,1212,Success,0,1,Karnataka,Entertainment,P2M,Android,4G,UPI-Pay,SBI,26-35,Authenticated
+2024-11-29,413,Success,0,1,Uttar Pradesh,Education,P2M,Android,5G,UPI-Pay,Axis,46-55,Authenticated
+2024-07-25,638,Success,0,1,Uttar Pradesh,Shopping,P2M,Android,4G,Axis,UPI-Pay,56+,Authenticated
+2024-04-10,1173,Success,0,1,West Bengal,Other,P2P,iOS,WiFi,Axis,ICICI,36-45,Authenticated
+2024-08-14,1070,Success,0,1,Delhi,Utilities,Bill Payment,Android,4G,PNB,UPI-Pay,36-45,Authenticated
+2024-11-28,776,Success,0,1,Maharashtra,Other,P2P,Android,5G,UPI-Pay,PNB,26-35,Authenticated
+2024-09-23,1474,Success,0,1,Karnataka,Transport,P2M,Android,4G,UPI-Pay,Paytm Bank,18-25,Authenticated
+2024-08-14,282,Success,0,1,Delhi,Grocery,P2M,iOS,4G,Yes Bank,SBI,26-35,Authenticated
+2024-06-01,720,Success,0,1,Maharashtra,Utilities,Bill Payment,iOS,WiFi,ICICI,HDFC,26-35,Authenticated
+2024-01-04,1096,Success,0,1,Rajasthan,Transport,P2M,Android,WiFi,Axis,SBI,18-25,Authenticated
+2024-04-20,1061,Success,0,1,Uttar Pradesh,Shopping,P2M,Android,WiFi,Axis,Paytm Bank,18-25,Authenticated
+2024-03-18,523,Success,0,1,Delhi,Shopping,P2M,Android,5G,SBI,Axis,26-35,Authenticated
+2024-12-25,226,Success,0,1,Delhi,Other,P2P,Android,5G,HDFC,Yes Bank,26-35,Authenticated
+2024-07-04,1459,Success,0,1,Telangana,Transport,P2M,iOS,4G,PNB,Paytm Bank,36-45,Authenticated
+2024-04-07,1093,Success,0,1,Delhi,Other,P2P,Android,5G,Yes Bank,Axis,36-45,Authenticated
+2024-02-07,1466,Success,0,1,Telangana,Entertainment,P2M,Android,5G,HDFC,ICICI,36-45,Authenticated
+2024-11-07,1323,Success,0,1,Karnataka,Other,P2P,Android,5G,ICICI,Yes Bank,36-45,Authenticated
+2024-05-26,1164,Success,0,1,Tamil Nadu,Other,P2P,iOS,4G,Paytm Bank,PNB,26-35,Authenticated
+2024-02-17,357,Success,0,1,West Bengal,Utilities,Bill Payment,Android,5G,PNB,Paytm Bank,26-35,Authenticated
+2024-05-30,329,Success,0,1,Gujarat,Other,P2P,Android,4G,Axis,HDFC,56+,Authenticated
+2024-11-03,1322,Success,0,1,Andhra Pradesh,Shopping,P2M,Android,5G,HDFC,UPI-Pay,46-55,Authenticated
+2024-07-19,955,Success,0,1,Telangana,Fuel,P2M,Android,4G,SBI,ICICI,36-45,Authenticated
+2024-06-11,982,Success,0,1,Rajasthan,Healthcare,P2M,Android,4G,Paytm Bank,PNB,36-45,Authenticated
+2024-02-29,1110,Success,0,1,Maharashtra,Utilities,Bill Payment,Android,5G,Paytm Bank,HDFC,46-55,Authenticated
+2024-12-18,213,Success,0,1,Maharashtra,Other,P2P,iOS,4G,HDFC,PNB,36-45,Suspicious
+2024-10-08,781,Success,0,1,Karnataka,Transport,P2M,Android,4G,UPI-Pay,Axis,36-45,Authenticated
+2024-09-27,1230,Success,0,1,Rajasthan,Utilities,Bill Payment,Android,4G,ICICI,Yes Bank,26-35,Authenticated
+2024-07-21,1396,Success,0,1,Uttar Pradesh,Fuel,P2M,iOS,4G,Paytm Bank,PNB,46-55,Authenticated
+2024-11-16,887,Success,0,1,Andhra Pradesh,Other,Recharge,iOS,WiFi,ICICI,SBI,36-45,Authenticated
+2024-06-13,434,Success,0,1,Rajasthan,Other,P2P,Android,5G,HDFC,Yes Bank,26-35,Authenticated
+2024-02-14,725,Success,0,1,Maharashtra,Other,P2P,Android,4G,SBI,Yes Bank,36-45,Authenticated
+2024-04-05,395,Success,0,1,West Bengal,Other,P2P,Android,4G,Axis,ICICI,26-35,Authenticated
+2024-03-12,297,Failed,0,0,Rajasthan,Other,P2P,Android,4G,SBI,PNB,26-35,Authenticated
+2024-09-28,1187,Success,0,1,Tamil Nadu,Utilities,Bill Payment,iOS,4G,Yes Bank,Axis,26-35,Authenticated
+2024-11-06,656,Success,0,1,Gujarat,Other,P2P,Android,4G,PNB,Axis,18-25,Authenticated
+2024-11-29,1099,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,Paytm Bank,Yes Bank,26-35,Authenticated
+2024-02-13,376,Success,0,1,Tamil Nadu,Other,P2P,Android,WiFi,PNB,HDFC,18-25,Authenticated
+2024-08-22,726,Success,0,1,Karnataka,Healthcare,P2M,Android,4G,PNB,SBI,46-55,Authenticated
+2024-11-21,1493,Success,0,1,Uttar Pradesh,Other,P2P,iOS,4G,Yes Bank,HDFC,26-35,Authenticated
+2024-01-11,3730,Success,0,1,Tamil Nadu,Utilities,Bill Payment,iOS,4G,Yes Bank,Paytm Bank,18-25,Authenticated
+2024-07-22,1115,Success,0,1,Gujarat,Entertainment,P2M,iOS,WiFi,Axis,HDFC,26-35,Authenticated
+2024-08-28,904,Success,0,1,Uttar Pradesh,Healthcare,P2M,Android,4G,Paytm Bank,Yes Bank,36-45,Authenticated
+2024-11-02,768,Success,0,1,Uttar Pradesh,Transport,P2M,Android,4G,PNB,SBI,56+,Authenticated
+2024-11-12,263,Success,0,1,Tamil Nadu,Utilities,Bill Payment,Android,4G,PNB,Paytm Bank,18-25,Authenticated
+2024-11-27,840,Success,0,1,Delhi,Utilities,P2M,Android,4G,Yes Bank,UPI-Pay,36-45,Suspicious
+2024-04-17,598,Success,0,1,Delhi,Other,P2P,iOS,5G,PNB,Paytm Bank,26-35,Authenticated
+2024-02-03,1134,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,Axis,PNB,36-45,Authenticated
+2024-05-06,853,Success,0,1,Tamil Nadu,Other,P2P,Android,5G,ICICI,HDFC,26-35,Authenticated
+2024-08-08,717,Success,0,1,Uttar Pradesh,Healthcare,P2M,iOS,5G,HDFC,PNB,18-25,Suspicious
+2024-12-07,371,Success,0,1,Gujarat,Other,P2P,Android,4G,HDFC,Paytm Bank,36-45,Authenticated
+2024-11-18,1033,Success,0,1,Gujarat,Other,P2P,Android,5G,Paytm Bank,PNB,36-45,Authenticated
+2024-08-23,355,Success,0,1,Uttar Pradesh,Other,P2P,Android,5G,ICICI,SBI,46-55,Authenticated
+2024-06-11,655,Success,0,1,Uttar Pradesh,Shopping,P2M,Android,4G,ICICI,PNB,18-25,Authenticated
+2024-03-13,708,Success,0,1,Maharashtra,Other,P2P,Android,5G,HDFC,PNB,26-35,Authenticated
+2024-12-01,708,Success,0,1,Gujarat,Other,P2P,Android,4G,UPI-Pay,HDFC,36-45,Authenticated
+2024-03-11,291,Success,0,1,Uttar Pradesh,Fuel,P2M,Android,4G,Paytm Bank,Axis,26-35,Authenticated
+2024-04-05,1469,Success,0,1,Maharashtra,Other,P2P,iOS,WiFi,SBI,UPI-Pay,18-25,Authenticated
+2024-07-18,1046,Success,0,1,West Bengal,Other,P2P,Android,5G,PNB,Yes Bank,46-55,Authenticated
+2024-01-26,970,Success,0,1,Andhra Pradesh,Other,P2P,Android,4G,SBI,UPI-Pay,26-35,Authenticated
+2024-11-27,323,Failed,1,0,Tamil Nadu,Other,P2P,Android,5G,Paytm Bank,SBI,36-45,Suspicious
+2024-04-10,1063,Success,0,1,Delhi,Other,P2M,iOS,WiFi,ICICI,SBI,18-25,Authenticated
+2024-10-30,706,Success,0,1,Maharashtra,Utilities,Bill Payment,iOS,4G,SBI,Paytm Bank,36-45,Authenticated
+2024-03-12,1264,Success,0,1,Gujarat,Other,P2M,Android,5G,HDFC,UPI-Pay,36-45,Authenticated
+2024-10-20,1003,Success,0,1,Uttar Pradesh,Other,P2P,Android,WiFi,Axis,HDFC,26-35,Authenticated
+2024-05-04,488,Success,0,1,Maharashtra,Fuel,P2M,Android,WiFi,Paytm Bank,Axis,36-45,Authenticated
+2024-10-28,450,Success,0,1,Andhra Pradesh,Shopping,P2M,Android,5G,SBI,Paytm Bank,36-45,Authenticated
+2024-01-30,350,Success,0,1,Andhra Pradesh,Healthcare,P2M,Android,WiFi,PNB,SBI,18-25,Authenticated
+2024-07-19,1180,Success,0,1,Rajasthan,Other,Recharge,iOS,4G,Axis,ICICI,26-35,Authenticated
+2024-09-15,1145,Success,0,1,Telangana,Other,P2P,Android,4G,SBI,Yes Bank,36-45,Authenticated
+2024-04-21,1201,Success,0,1,Delhi,Shopping,P2M,Android,4G,Yes Bank,ICICI,26-35,Authenticated
+2024-01-13,847,Success,0,1,Karnataka,Healthcare,P2M,Android,4G,HDFC,UPI-Pay,36-45,Authenticated
+2024-10-15,768,Failed,0,0,Rajasthan,Utilities,Bill Payment,iOS,4G,Yes Bank,ICICI,26-35,Authenticated
+2024-04-05,1294,Success,0,1,West Bengal,Other,Recharge,Android,5G,Yes Bank,SBI,26-35,Authenticated
+2024-09-23,1257,Success,0,1,Tamil Nadu,Fuel,P2M,Android,5G,ICICI,SBI,56+,Authenticated
+2024-09-18,172,Success,0,1,West Bengal,Other,P2P,Android,4G,UPI-Pay,PNB,18-25,Authenticated
+2024-08-10,164,Success,0,1,Delhi,Utilities,Bill Payment,Android,4G,ICICI,UPI-Pay,36-45,Authenticated
+2024-06-12,241,Success,0,1,Uttar Pradesh,Utilities,P2M,Android,5G,Paytm Bank,ICICI,46-55,Authenticated
+2024-07-26,1320,Success,0,1,Karnataka,Utilities,Bill Payment,iOS,5G,Paytm Bank,Yes Bank,18-25,Authenticated
+2024-02-11,1131,Success,0,1,Maharashtra,Other,P2P,iOS,4G,PNB,Yes Bank,36-45,Authenticated
+2024-06-03,659,Success,0,1,West Bengal,Transport,P2M,Android,4G,ICICI,UPI-Pay,26-35,Authenticated
+2024-09-27,160,Success,0,1,Karnataka,Healthcare,P2M,Android,4G,SBI,UPI-Pay,26-35,Authenticated
+2024-01-14,1245,Success,0,1,Maharashtra,Other,P2P,Android,WiFi,Axis,SBI,26-35,Authenticated
+2024-12-09,450,Success,0,1,Gujarat,Other,P2P,Android,5G,Yes Bank,ICICI,26-35,Authenticated
+2024-12-29,2557,Success,0,1,Karnataka,Shopping,P2M,Android,4G,Paytm Bank,ICICI,18-25,Authenticated
+2024-08-28,1464,Success,0,1,Gujarat,Food,P2M,Android,4G,PNB,ICICI,26-35,Authenticated
+2024-08-29,3848,Success,0,1,Tamil Nadu,Other,P2P,Android,WiFi,SBI,HDFC,26-35,Authenticated
+2024-04-29,1329,Success,0,1,Tamil Nadu,Utilities,Bill Payment,Android,4G,Yes Bank,UPI-Pay,18-25,Authenticated
+2024-08-14,1321,Success,0,1,Gujarat,Fuel,P2M,Android,4G,SBI,Paytm Bank,36-45,Authenticated
+2024-03-26,9010,Success,0,1,Tamil Nadu,Other,P2P,Android,4G,Axis,PNB,36-45,Authenticated
+2024-08-19,7862,Success,0,1,Karnataka,Utilities,Bill Payment,iOS,5G,SBI,PNB,36-45,Authenticated
+2024-08-03,1159,Success,0,1,Maharashtra,Other,P2P,Android,4G,Paytm Bank,Yes Bank,18-25,Authenticated
+2024-01-03,1259,Success,0,1,Maharashtra,Utilities,P2M,Android,4G,PNB,UPI-Pay,36-45,Suspicious
+2024-04-27,1340,Success,0,1,West Bengal,Other,P2P,iOS,5G,Axis,HDFC,46-55,Authenticated
+2024-12-23,231,Success,0,1,Tamil Nadu,Other,P2M,iOS,4G,UPI-Pay,HDFC,36-45,Authenticated
+2024-09-05,140,Success,0,1,Telangana,Other,P2P,Android,4G,Yes Bank,ICICI,18-25,Authenticated
+2024-12-12,288,Success,0,1,Andhra Pradesh,Entertainment,P2M,Android,4G,HDFC,ICICI,46-55,Authenticated
+2024-03-31,992,Success,0,1,Karnataka,Other,P2P,Android,4G,UPI-Pay,HDFC,26-35,Authenticated
+2024-06-26,890,Success,0,1,Karnataka,Other,P2P,Android,WiFi,HDFC,PNB,46-55,Authenticated
+2024-11-11,174,Success,0,1,Karnataka,Other,P2P,iOS,4G,Yes Bank,PNB,36-45,Authenticated
+2024-01-03,1369,Failed,0,0,Rajasthan,Other,P2P,Android,4G,PNB,ICICI,18-25,Authenticated
+2024-12-24,644,Success,0,1,Gujarat,Education,P2M,iOS,4G,ICICI,PNB,36-45,Authenticated
+2024-09-11,1151,Success,0,1,Gujarat,Entertainment,P2M,iOS,5G,Axis,Paytm Bank,18-25,Authenticated
+2024-12-20,933,Success,0,1,Andhra Pradesh,Fuel,P2M,Android,5G,SBI,Paytm Bank,36-45,Authenticated
+2024-04-24,812,Success,0,1,Maharashtra,Other,P2P,Android,4G,HDFC,UPI-Pay,26-35,Authenticated
+2024-01-19,1403,Success,0,1,Gujarat,Other,P2P,Android,5G,Yes Bank,Axis,26-35,Authenticated
+2024-01-07,759,Success,0,1,Tamil Nadu,Other,P2P,Android,5G,SBI,Axis,26-35,Suspicious
+2024-06-26,889,Success,0,1,Karnataka,Utilities,P2M,Android,5G,Axis,PNB,46-55,Authenticated
+2024-11-27,6078,Success,0,1,Delhi,Other,P2P,iOS,4G,UPI-Pay,HDFC,26-35,Authenticated
+2024-08-07,705,Success,0,1,Rajasthan,Other,P2P,iOS,4G,UPI-Pay,Axis,18-25,Authenticated
+2024-05-22,238,Success,0,1,Karnataka,Shopping,P2M,Android,5G,SBI,HDFC,26-35,Authenticated
+2024-05-12,221,Success,0,1,Telangana,Other,P2M,Android,5G,HDFC,UPI-Pay,26-35,Authenticated
+2024-03-09,907,Success,0,1,Delhi,Entertainment,P2M,Android,4G,ICICI,UPI-Pay,36-45,Authenticated
+2024-11-26,729,Success,0,1,Maharashtra,Other,P2P,iOS,WiFi,Yes Bank,PNB,18-25,Authenticated
+2024-01-14,417,Failed,0,0,Tamil Nadu,Other,Recharge,Android,4G,Axis,Paytm Bank,26-35,Authenticated
+2024-07-12,585,Success,0,1,Telangana,Utilities,P2M,Android,5G,Paytm Bank,Yes Bank,36-45,Authenticated
+2024-03-12,1163,Success,0,1,Karnataka,Fuel,P2M,iOS,4G,PNB,Paytm Bank,36-45,Authenticated
+2024-09-24,721,Failed,0,0,West Bengal,Other,P2P,Android,WiFi,Paytm Bank,PNB,26-35,Authenticated
+2024-03-17,526,Success,0,1,Karnataka,Other,P2P,iOS,4G,ICICI,UPI-Pay,26-35,Authenticated
+2024-04-07,237,Success,0,1,Telangana,Shopping,P2M,iOS,4G,Axis,UPI-Pay,36-45,Authenticated
+2024-03-29,1627,Success,0,1,Karnataka,Utilities,P2M,Android,5G,Yes Bank,Axis,46-55,Authenticated
+2024-01-02,861,Success,0,1,Maharashtra,Other,P2P,Android,4G,HDFC,SBI,46-55,Suspicious
+2024-04-03,459,Success,0,1,Tamil Nadu,Other,Recharge,Android,4G,Yes Bank,HDFC,18-25,Authenticated
+2024-02-09,276,Success,0,1,Karnataka,Other,P2P,Android,WiFi,PNB,ICICI,26-35,Authenticated
+2024-12-28,372,Success,0,1,Karnataka,Entertainment,P2M,Android,4G,Yes Bank,Axis,18-25,Authenticated
+2024-11-05,1392,Failed,0,0,Uttar Pradesh,Other,P2P,Android,5G,UPI-Pay,PNB,26-35,Authenticated
+2024-05-01,495,Success,0,1,West Bengal,Other,P2P,Android,4G,UPI-Pay,ICICI,18-25,Authenticated
+2024-11-28,1423,Success,0,1,Telangana,Utilities,Bill Payment,Android,4G,PNB,Axis,26-35,Authenticated
+2024-02-15,7824,Success,0,1,Andhra Pradesh,Food,P2M,Android,4G,ICICI,HDFC,26-35,Authenticated
+2024-01-16,170,Success,0,1,Uttar Pradesh,Utilities,Bill Payment,Android,4G,SBI,HDFC,46-55,Authenticated
+2024-02-05,5293,Success,0,1,Telangana,Transport,P2M,Android,5G,UPI-Pay,SBI,36-45,Authenticated
+2024-10-22,428,Success,0,1,Maharashtra,Other,P2M,Android,WiFi,UPI-Pay,Axis,36-45,Authenticated
+2024-12-31,1332,Success,0,1,Tamil Nadu,Utilities,Bill Payment,iOS,5G,HDFC,SBI,26-35,Authenticated
+2024-04-25,971,Success,0,1,Delhi,Healthcare,P2M,iOS,4G,SBI,Yes Bank,18-25,Authenticated
+2024-06-25,1075,Success,0,1,Andhra Pradesh,Transport,P2M,iOS,WiFi,SBI,Yes Bank,26-35,Authenticated
+2024-10-18,465,Success,0,1,Gujarat,Utilities,P2M,iOS,4G,UPI-Pay,ICICI,26-35,Authenticated
+2024-08-04,1460,Success,0,1,Andhra Pradesh,Shopping,P2M,Android,4G,Yes Bank,Axis,26-35,Authenticated
+2024-12-12,210,Success,0,1,Maharashtra,Other,P2P,Android,WiFi,Paytm Bank,PNB,26-35,Authenticated
+2024-05-23,1082,Success,0,1,Maharashtra,Utilities,Bill Payment,Android,WiFi,SBI,Yes Bank,18-25,Authenticated
+2024-11-20,538,Success,0,1,Karnataka,Other,Recharge,iOS,4G,Yes Bank,Axis,36-45,Authenticated
+2024-07-15,1096,Success,0,1,Delhi,Education,P2M,Android,4G,Yes Bank,HDFC,36-45,Authenticated
+2024-01-16,537,Failed,0,0,Uttar Pradesh,Other,P2P,Android,5G,UPI-Pay,Paytm Bank,36-45,Authenticated
+2024-06-15,589,Success,0,1,Maharashtra,Food,P2M,Android,5G,Axis,UPI-Pay,18-25,Authenticated
+2024-01-18,1360,Success,0,1,Maharashtra,Other,P2P,Android,WiFi,HDFC,PNB,36-45,Authenticated
+2024-07-05,1237,Success,0,1,Telangana,Utilities,Bill Payment,Android,5G,UPI-Pay,SBI,26-35,Authenticated
+2024-08-02,1442,Success,0,1,Andhra Pradesh,Other,P2P,Android,4G,UPI-Pay,HDFC,46-55,Authenticated
+2024-01-24,410,Success,0,1,Karnataka,Shopping,P2M,Android,5G,HDFC,UPI-Pay,36-45,Authenticated
+2024-07-15,1270,Success,0,1,Delhi,Utilities,Bill Payment,Android,WiFi,UPI-Pay,Axis,18-25,Authenticated
+2024-05-17,788,Success,0,1,Rajasthan,Utilities,P2M,iOS,5G,Axis,UPI-Pay,18-25,Authenticated
+2024-08-19,754,Success,0,1,Karnataka,Healthcare,P2M,Android,4G,Paytm Bank,ICICI,18-25,Authenticated
+2024-10-20,870,Success,0,1,Rajasthan,Fuel,P2M,Android,5G,PNB,Yes Bank,36-45,Authenticated
+2024-10-16,438,Success,0,1,Telangana,Other,P2P,Android,4G,Axis,HDFC,18-25,Authenticated
+2024-10-04,197,Success,0,1,Delhi,Other,P2P,Android,5G,Paytm Bank,ICICI,18-25,Authenticated
+2024-08-16,1427,Failed,0,0,Telangana,Other,P2P,Android,4G,HDFC,Paytm Bank,36-45,Authenticated
+2024-11-16,1396,Success,0,1,Andhra Pradesh,Other,P2P,iOS,5G,Paytm Bank,SBI,18-25,Authenticated
+2024-05-15,1217,Success,0,1,Tamil Nadu,Fuel,P2M,iOS,4G,Yes Bank,ICICI,18-25,Authenticated
+2024-01-18,1400,Success,0,1,Delhi,Transport,P2M,iOS,4G,UPI-Pay,HDFC,36-45,Authenticated
+2024-07-24,107,Success,0,1,Delhi,Healthcare,P2M,Android,4G,UPI-Pay,HDFC,26-35,Authenticated
+2024-03-30,233,Failed,0,0,Maharashtra,Transport,P2M,Android,4G,Axis,PNB,36-45,Suspicious
+2024-12-08,1139,Success,0,1,Uttar Pradesh,Shopping,P2M,Android,5G,Yes Bank,PNB,36-45,Authenticated
+2024-03-21,1294,Success,0,1,Delhi,Other,P2P,Android,4G,PNB,Paytm Bank,36-45,Authenticated
+2024-12-25,233,Success,0,1,West Bengal,Fuel,P2M,Android,4G,ICICI,SBI,36-45,Authenticated
+2024-01-08,176,Success,0,1,Telangana,Other,P2P,Android,5G,PNB,Paytm Bank,36-45,Authenticated
+2024-06-26,338,Success,0,1,Rajasthan,Utilities,Bill Payment,Android,4G,HDFC,SBI,46-55,Suspicious
+2024-10-23,1439,Success,0,1,Tamil Nadu,Healthcare,P2M,Android,4G,UPI-Pay,Paytm Bank,18-25,Authenticated
+2024-08-08,226,Success,0,1,Karnataka,Other,Recharge,Android,4G,Axis,ICICI,46-55,Authenticated
+2024-05-09,6956,Success,0,1,Telangana,Fuel,P2M,Android,4G,Yes Bank,UPI-Pay,26-35,Authenticated
+2024-03-22,891,Success,0,1,Telangana,Other,P2P,Android,4G,PNB,Paytm Bank,26-35,Authenticated
+2024-05-30,326,Success,0,1,Karnataka,Utilities,Bill Payment,Android,5G,Paytm Bank,HDFC,36-45,Authenticated
+2024-08-18,536,Success,0,1,Uttar Pradesh,Utilities,Bill Payment,iOS,5G,PNB,ICICI,18-25,Authenticated
+2024-12-02,6429,Success,0,1,Maharashtra,Other,P2P,Android,4G,Axis,HDFC,36-45,Authenticated
+2024-07-17,466,Success,0,1,Rajasthan,Other,P2P,Android,5G,UPI-Pay,Axis,18-25,Authenticated
+2024-06-07,704,Success,0,1,Maharashtra,Utilities,Bill Payment,Android,4G,PNB,HDFC,36-45,Authenticated
+2024-07-21,168,Success,0,1,Tamil Nadu,Shopping,P2M,iOS,4G,PNB,UPI-Pay,56+,Authenticated
+2024-05-27,1005,Success,0,1,Uttar Pradesh,Other,P2M,iOS,WiFi,Axis,HDFC,18-25,Authenticated
+2024-11-09,1290,Success,0,1,Karnataka,Other,Recharge,Android,5G,Yes Bank,SBI,36-45,Authenticated
+2024-12-13,699,Success,0,1,Maharashtra,Other,P2P,iOS,5G,Axis,ICICI,26-35,Authenticated
+2024-11-13,377,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,Yes Bank,Axis,36-45,Authenticated
+2024-07-14,602,Success,0,1,Maharashtra,Transport,P2M,Android,4G,PNB,ICICI,56+,Authenticated
+2024-10-05,1396,Success,0,1,Gujarat,Education,P2M,Android,5G,ICICI,Axis,26-35,Authenticated
+2024-02-03,1297,Success,0,1,Delhi,Other,P2P,Android,4G,UPI-Pay,HDFC,36-45,Authenticated
+2024-04-26,147,Success,0,1,West Bengal,Other,P2P,Android,WiFi,Axis,UPI-Pay,18-25,Authenticated
+2024-07-09,1310,Success,0,1,Uttar Pradesh,Other,P2P,Android,5G,UPI-Pay,ICICI,18-25,Authenticated
+2024-08-07,299,Failed,0,0,Delhi,Food,P2M,Android,5G,ICICI,Yes Bank,26-35,Authenticated
+2024-02-11,1246,Success,0,1,Tamil Nadu,Utilities,Bill Payment,Android,WiFi,Yes Bank,ICICI,26-35,Authenticated
+2024-02-26,1018,Success,0,1,Delhi,Other,P2P,iOS,4G,ICICI,HDFC,18-25,Authenticated
+2024-03-20,138,Success,0,1,Rajasthan,Utilities,P2M,Android,WiFi,ICICI,PNB,26-35,Authenticated
+2024-11-22,814,Success,0,1,Maharashtra,Grocery,P2M,Android,4G,HDFC,UPI-Pay,26-35,Authenticated
+2024-05-15,130,Success,0,1,Uttar Pradesh,Utilities,P2M,Android,5G,Yes Bank,SBI,18-25,Authenticated
+2024-10-02,127,Success,0,1,Delhi,Other,P2P,Android,4G,PNB,HDFC,18-25,Authenticated
+2024-12-20,1365,Success,0,1,Delhi,Other,P2P,Android,5G,SBI,Yes Bank,18-25,Authenticated
+2024-06-19,7729,Success,0,1,Tamil Nadu,Other,P2P,Android,4G,Axis,UPI-Pay,26-35,Authenticated
+2024-12-21,495,Success,0,1,Karnataka,Other,P2M,Android,4G,HDFC,SBI,18-25,Authenticated
+2024-11-22,685,Success,0,1,Andhra Pradesh,Other,P2P,iOS,4G,UPI-Pay,HDFC,18-25,Authenticated
+2024-03-12,1283,Success,0,1,West Bengal,Fuel,P2M,Android,5G,Yes Bank,Paytm Bank,18-25,Authenticated
+2024-11-29,124,Success,0,1,Tamil Nadu,Other,P2P,iOS,4G,PNB,UPI-Pay,46-55,Authenticated
+2024-01-10,874,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,SBI,PNB,26-35,Authenticated
+2024-09-20,9997,Success,0,1,Rajasthan,Other,P2P,Android,4G,UPI-Pay,Axis,36-45,Authenticated
+2024-01-10,602,Success,0,1,West Bengal,Other,P2P,Android,4G,ICICI,UPI-Pay,26-35,Authenticated
+2024-11-26,595,Success,0,1,Delhi,Other,P2P,Android,5G,Yes Bank,PNB,18-25,Authenticated
+2024-05-29,1138,Success,0,1,Gujarat,Education,P2M,Android,4G,HDFC,Axis,46-55,Authenticated
+2024-08-02,2745,Success,0,1,Maharashtra,Other,P2P,Android,WiFi,SBI,UPI-Pay,36-45,Authenticated
+2024-07-23,249,Success,0,1,Rajasthan,Grocery,P2M,Android,4G,HDFC,SBI,26-35,Authenticated
+2024-11-02,6503,Success,0,1,Karnataka,Other,P2P,iOS,5G,UPI-Pay,Axis,46-55,Authenticated
+2024-10-23,1494,Success,0,1,Uttar Pradesh,Other,P2P,iOS,4G,Paytm Bank,HDFC,36-45,Authenticated
+2024-10-05,1159,Success,0,1,Karnataka,Other,P2M,Android,4G,PNB,Paytm Bank,46-55,Authenticated
+2024-06-06,1109,Success,0,1,Tamil Nadu,Other,P2P,Android,5G,Paytm Bank,UPI-Pay,26-35,Authenticated
+2024-12-13,809,Success,0,1,Gujarat,Fuel,P2M,iOS,4G,HDFC,UPI-Pay,36-45,Authenticated
+2024-11-10,1014,Success,0,1,Maharashtra,Other,P2P,Android,5G,PNB,Axis,26-35,Authenticated
+2024-04-03,901,Success,0,1,Rajasthan,Transport,P2M,Android,4G,PNB,UPI-Pay,18-25,Authenticated
+2024-04-04,114,Success,0,1,Uttar Pradesh,Healthcare,P2M,iOS,5G,Axis,SBI,36-45,Authenticated
+2024-05-24,926,Success,0,1,Tamil Nadu,Shopping,P2M,iOS,4G,UPI-Pay,Paytm Bank,18-25,Authenticated
+2024-02-14,6573,Success,0,1,Karnataka,Other,P2M,Android,5G,UPI-Pay,Paytm Bank,36-45,Authenticated
+2024-07-26,1255,Success,0,1,Tamil Nadu,Fuel,P2M,Android,4G,Yes Bank,Axis,36-45,Authenticated
+2024-06-11,1215,Success,0,1,Gujarat,Other,P2M,Android,WiFi,UPI-Pay,Yes Bank,36-45,Authenticated
+2024-04-19,915,Success,0,1,Gujarat,Other,Recharge,iOS,4G,UPI-Pay,Paytm Bank,26-35,Authenticated
+2024-03-28,566,Success,0,1,Delhi,Other,P2P,Android,4G,ICICI,Axis,26-35,Authenticated
+2024-01-30,930,Success,0,1,Andhra Pradesh,Utilities,P2M,iOS,4G,Axis,PNB,26-35,Authenticated
+2024-07-10,9584,Success,0,1,Delhi,Education,P2M,Android,4G,PNB,SBI,26-35,Authenticated
+2024-02-07,773,Success,0,1,Rajasthan,Other,P2P,Android,WiFi,ICICI,HDFC,26-35,Authenticated
+2024-09-23,2812,Success,0,1,Delhi,Other,P2P,Android,4G,Yes Bank,HDFC,26-35,Authenticated
+2024-04-08,469,Success,0,1,Gujarat,Utilities,Bill Payment,iOS,4G,Axis,Paytm Bank,56+,Authenticated
+2024-03-10,355,Success,0,1,Uttar Pradesh,Other,P2P,iOS,4G,Paytm Bank,Yes Bank,18-25,Authenticated
+2024-02-01,2818,Success,0,1,Karnataka,Entertainment,P2M,Android,WiFi,HDFC,Yes Bank,36-45,Authenticated
+2024-08-06,636,Success,0,1,Tamil Nadu,Utilities,Bill Payment,iOS,5G,Paytm Bank,ICICI,18-25,Authenticated
+2024-07-07,1427,Success,0,1,Tamil Nadu,Other,P2P,Android,5G,Yes Bank,PNB,18-25,Authenticated
+2024-10-15,896,Success,0,1,Gujarat,Other,P2P,iOS,5G,ICICI,SBI,46-55,Authenticated
+2024-08-09,111,Success,0,1,Andhra Pradesh,Healthcare,P2M,Android,5G,Paytm Bank,HDFC,26-35,Authenticated
+2024-08-22,1319,Failed,0,0,Andhra Pradesh,Fuel,P2M,Android,4G,ICICI,Paytm Bank,26-35,Authenticated
+2024-12-08,1195,Success,0,1,Andhra Pradesh,Other,P2P,Android,5G,PNB,Paytm Bank,26-35,Authenticated
+2024-12-22,784,Success,0,1,Uttar Pradesh,Utilities,Bill Payment,Android,4G,ICICI,UPI-Pay,26-35,Authenticated
+2024-05-26,900,Success,0,1,Maharashtra,Other,P2M,Android,4G,HDFC,Paytm Bank,26-35,Authenticated
+2024-08-14,183,Success,0,1,Delhi,Other,P2P,Android,4G,HDFC,PNB,18-25,Authenticated
+2024-10-05,643,Success,0,1,Maharashtra,Other,P2P,Android,4G,UPI-Pay,PNB,18-25,Authenticated
+2024-08-08,8236,Success,0,1,Telangana,Other,Recharge,Android,WiFi,SBI,HDFC,56+,Authenticated
+2024-03-14,1053,Success,0,1,Maharashtra,Other,P2P,Android,4G,SBI,ICICI,36-45,Authenticated
+2024-12-04,1296,Success,0,1,Telangana,Utilities,Bill Payment,Android,4G,ICICI,UPI-Pay,36-45,Authenticated
+2024-09-03,634,Success,0,1,Tamil Nadu,Other,P2P,Android,4G,HDFC,Axis,26-35,Authenticated
+2024-02-16,136,Success,0,1,Karnataka,Utilities,Bill Payment,Android,4G,ICICI,PNB,26-35,Authenticated
+2024-04-08,712,Success,0,1,Andhra Pradesh,Other,P2P,Android,4G,Yes Bank,HDFC,46-55,Authenticated
+2024-02-27,1113,Success,0,1,Maharashtra,Utilities,Bill Payment,Android,WiFi,Axis,Paytm Bank,18-25,Authenticated
+2024-12-31,1177,Success,0,1,Gujarat,Fuel,P2M,Android,WiFi,Axis,PNB,26-35,Authenticated
+2024-09-07,7472,Success,0,1,Tamil Nadu,Other,P2P,iOS,4G,Paytm Bank,Axis,36-45,Authenticated
+2024-01-03,1073,Success,0,1,Karnataka,Entertainment,P2M,Android,WiFi,Paytm Bank,ICICI,36-45,Authenticated
+2024-09-19,2596,Success,0,1,Delhi,Other,P2P,Android,4G,Yes Bank,Axis,56+,Authenticated
+2024-03-31,722,Success,0,1,Delhi,Other,P2P,Android,4G,ICICI,PNB,26-35,Authenticated
+2024-06-06,550,Success,0,1,Rajasthan,Utilities,P2M,Android,WiFi,Yes Bank,Axis,26-35,Authenticated
+2024-09-09,1189,Success,0,1,Andhra Pradesh,Transport,P2M,Android,4G,Axis,HDFC,36-45,Authenticated
+2024-07-09,462,Success,0,1,Andhra Pradesh,Other,P2P,Android,4G,Axis,ICICI,26-35,Authenticated
+2024-12-03,1461,Success,0,1,Gujarat,Other,Recharge,Android,4G,UPI-Pay,HDFC,36-45,Suspicious
+2024-08-03,391,Success,0,1,Delhi,Other,P2P,Android,4G,HDFC,Paytm Bank,26-35,Authenticated
+2024-04-14,314,Success,0,1,Delhi,Education,P2M,iOS,5G,Yes Bank,PNB,26-35,Authenticated
+2024-08-22,902,Success,0,1,West Bengal,Other,Recharge,Android,WiFi,Axis,SBI,26-35,Authenticated
+2024-04-30,907,Success,0,1,Karnataka,Healthcare,P2M,iOS,4G,ICICI,HDFC,18-25,Authenticated
+2024-12-15,923,Success,0,1,Tamil Nadu,Other,P2P,iOS,4G,SBI,UPI-Pay,46-55,Authenticated
+2024-07-05,1030,Success,0,1,West Bengal,Shopping,P2M,Android,4G,Paytm Bank,Axis,18-25,Authenticated
+2024-05-14,1523,Success,0,1,Maharashtra,Entertainment,P2M,Android,4G,ICICI,Paytm Bank,18-25,Authenticated
+2024-09-04,1198,Success,0,1,West Bengal,Other,P2P,iOS,4G,ICICI,HDFC,26-35,Authenticated
+2024-04-26,663,Success,0,1,West Bengal,Other,P2P,iOS,5G,HDFC,Axis,26-35,Authenticated
+2024-01-16,1548,Success,0,1,Gujarat,Other,P2P,iOS,5G,Yes Bank,UPI-Pay,18-25,Authenticated
+2024-12-17,896,Failed,0,0,Tamil Nadu,Entertainment,P2M,Android,5G,ICICI,UPI-Pay,26-35,Authenticated
+2024-03-04,4734,Success,0,1,Telangana,Other,P2P,Android,4G,Paytm Bank,SBI,26-35,Authenticated
+2024-09-16,922,Success,0,1,Tamil Nadu,Healthcare,P2M,iOS,WiFi,Paytm Bank,ICICI,26-35,Authenticated
+2024-04-11,1421,Success,0,1,Maharashtra,Utilities,Bill Payment,Android,4G,SBI,PNB,36-45,Authenticated
+2024-06-11,453,Success,0,1,Andhra Pradesh,Other,P2P,Android,4G,Yes Bank,UPI-Pay,18-25,Authenticated
+2024-04-24,383,Success,0,1,Maharashtra,Other,P2P,Android,4G,Axis,UPI-Pay,26-35,Authenticated
+2024-04-05,391,Success,0,1,Maharashtra,Other,P2P,iOS,WiFi,Axis,PNB,36-45,Authenticated
+2024-11-26,781,Success,0,1,Gujarat,Utilities,Bill Payment,iOS,4G,HDFC,Axis,18-25,Authenticated
+2024-06-23,164,Success,0,1,Telangana,Other,P2P,Android,WiFi,Paytm Bank,Yes Bank,36-45,Authenticated
+2024-10-01,518,Success,0,1,Rajasthan,Food,P2M,Android,WiFi,HDFC,SBI,26-35,Authenticated
+2024-06-18,1102,Success,0,1,Gujarat,Other,P2P,iOS,WiFi,PNB,HDFC,26-35,Authenticated
+2024-06-10,746,Success,0,1,Maharashtra,Other,P2P,Android,5G,Axis,SBI,46-55,Authenticated
+2024-10-20,4072,Success,0,1,Andhra Pradesh,Other,P2P,iOS,WiFi,HDFC,UPI-Pay,56+,Authenticated
+2024-02-17,1109,Success,0,1,Andhra Pradesh,Entertainment,P2M,Android,4G,ICICI,Paytm Bank,36-45,Authenticated
+2024-07-15,112,Success,0,1,Gujarat,Entertainment,P2M,iOS,4G,ICICI,HDFC,26-35,Authenticated
+2024-03-20,555,Failed,0,0,Rajasthan,Food,P2M,Android,4G,Paytm Bank,SBI,36-45,Authenticated
+2024-08-28,1035,Success,0,1,Rajasthan,Food,P2M,Android,4G,ICICI,SBI,26-35,Authenticated
+2024-09-09,1399,Failed,0,0,Delhi,Utilities,Bill Payment,iOS,5G,Paytm Bank,SBI,18-25,Authenticated
+2024-02-29,206,Success,0,1,Rajasthan,Utilities,Bill Payment,Android,5G,Axis,HDFC,18-25,Authenticated
+2024-01-18,563,Success,0,1,Tamil Nadu,Entertainment,P2M,Android,WiFi,PNB,Yes Bank,26-35,Authenticated
+2024-06-17,1051,Failed,0,0,Karnataka,Utilities,Bill Payment,Android,4G,UPI-Pay,Yes Bank,36-45,Authenticated
+2024-06-28,853,Success,0,1,Maharashtra,Other,P2P,Android,4G,UPI-Pay,Paytm Bank,26-35,Authenticated
+2024-02-26,1010,Success,0,1,Karnataka,Shopping,P2M,iOS,5G,HDFC,Yes Bank,26-35,Authenticated
+2024-04-05,272,Success,0,1,West Bengal,Fuel,P2M,Android,4G,UPI-Pay,Paytm Bank,46-55,Authenticated
+2024-01-07,420,Success,0,1,Telangana,Utilities,Bill Payment,Android,5G,PNB,ICICI,26-35,Authenticated
+2024-02-13,7306,Success,0,1,Tamil Nadu,Other,P2P,iOS,5G,SBI,Paytm Bank,36-45,Authenticated
+2024-10-26,1239,Success,0,1,Delhi,Other,P2P,Android,5G,Yes Bank,ICICI,18-25,Authenticated
+2024-08-30,825,Success,0,1,Gujarat,Other,P2P,Android,5G,HDFC,Paytm Bank,36-45,Authenticated
+2024-10-31,961,Success,0,1,Andhra Pradesh,Utilities,Bill Payment,Android,4G,ICICI,Axis,46-55,Authenticated
+2024-09-10,1152,Success,0,1,Delhi,Other,P2P,Android,5G,Axis,UPI-Pay,26-35,Authenticated
+2024-03-28,7993,Success,0,1,Delhi,Education,P2M,Android,4G,SBI,Yes Bank,36-45,Authenticated
+2024-09-14,6945,Success,0,1,Telangana,Other,P2P,Android,4G,Paytm Bank,HDFC,18-25,Authenticated
+2024-01-24,370,Success,0,1,Uttar Pradesh,Utilities,Bill Payment,Android,4G,PNB,Paytm Bank,26-35,Authenticated
+2024-01-15,666,Success,0,1,Rajasthan,Utilities,Bill Payment,Android,WiFi,Yes Bank,UPI-Pay,18-25,Authenticated
+2024-03-15,139,Success,0,1,Uttar Pradesh,Other,P2P,Android,5G,HDFC,Yes Bank,18-25,Authenticated
+2024-07-13,539,Failed,0,0,Maharashtra,Other,P2P,Android,4G,Yes Bank,UPI-Pay,36-45,Authenticated
+2024-02-13,967,Success,0,1,Maharashtra,Other,P2P,Android,4G,Axis,SBI,56+,Authenticated
+2024-09-02,176,Success,0,1,Gujarat,Utilities,Bill Payment,iOS,5G,UPI-Pay,HDFC,18-25,Authenticated
+2024-03-15,3700,Failed,0,0,Maharashtra,Healthcare,P2M,Android,5G,Yes Bank,HDFC,36-45,Authenticated
+2024-10-04,1436,Success,0,1,Andhra Pradesh,Transport,P2M,Android,4G,Axis,Paytm Bank,26-35,Authenticated
+2024-02-14,1089,Success,0,1,Tamil Nadu,Other,Recharge,Android,5G,Paytm Bank,SBI,26-35,Authenticated
+2024-07-08,1376,Success,0,1,Andhra Pradesh,Other,P2P,iOS,4G,SBI,UPI-Pay,36-45,Authenticated
+2024-05-27,561,Failed,0,0,Uttar Pradesh,Other,P2P,Android,4G,SBI,Paytm Bank,46-55,Authenticated
+2024-06-11,1191,Failed,0,0,Tamil Nadu,Utilities,Bill Payment,Android,4G,SBI,Yes Bank,36-45,Authenticated
+2024-11-09,1489,Success,0,1,Maharashtra,Other,P2P,Android,4G,ICICI,UPI-Pay,18-25,Authenticated
+2024-02-21,602,Success,0,1,Delhi,Other,P2P,Android,4G,Yes Bank,HDFC,18-25,Authenticated
+2024-07-15,1366,Success,0,1,Karnataka,Other,P2P,Android,4G,UPI-Pay,SBI,36-45,Authenticated
+2024-10-06,559,Success,0,1,Karnataka,Utilities,Bill Payment,Android,4G,Paytm Bank,Axis,36-45,Authenticated
+2024-04-15,1349,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,PNB,Yes Bank,18-25,Authenticated
+2024-01-18,1372,Success,0,1,Telangana,Other,P2P,Android,5G,Yes Bank,PNB,26-35,Authenticated
+2024-08-06,1494,Failed,0,0,Tamil Nadu,Utilities,P2M,Android,4G,Paytm Bank,PNB,36-45,Authenticated
+2024-08-25,657,Success,0,1,Tamil Nadu,Other,P2P,Android,4G,HDFC,ICICI,26-35,Authenticated
+2024-12-02,912,Success,0,1,Maharashtra,Other,P2P,Android,5G,ICICI,PNB,18-25,Authenticated
+2024-07-17,978,Success,0,1,Tamil Nadu,Shopping,P2M,iOS,4G,Axis,HDFC,26-35,Authenticated
+2024-09-01,318,Success,0,1,Rajasthan,Shopping,P2M,Android,4G,HDFC,Yes Bank,26-35,Authenticated
+2024-04-03,1445,Success,0,1,Delhi,Utilities,P2M,Android,4G,HDFC,ICICI,26-35,Authenticated
+2024-10-27,6812,Success,0,1,Delhi,Other,Recharge,iOS,4G,Axis,PNB,26-35,Authenticated
+2024-05-15,1131,Success,0,1,Maharashtra,Other,P2P,iOS,4G,SBI,Axis,18-25,Authenticated
+2024-09-21,986,Success,0,1,Rajasthan,Other,Recharge,Android,4G,ICICI,Yes Bank,56+,Authenticated
+2024-01-09,711,Success,0,1,Maharashtra,Fuel,P2M,Android,4G,Yes Bank,UPI-Pay,18-25,Authenticated
+2024-01-31,997,Success,0,1,Tamil Nadu,Utilities,Bill Payment,Android,5G,HDFC,PNB,26-35,Authenticated
+2024-04-02,1237,Success,0,1,Andhra Pradesh,Other,P2P,Android,5G,PNB,Yes Bank,18-25,Authenticated
+2024-07-31,8340,Success,0,1,Gujarat,Utilities,Bill Payment,Android,4G,Axis,SBI,18-25,Authenticated
+2024-07-19,787,Success,0,1,Gujarat,Other,Recharge,Android,4G,SBI,Yes Bank,26-35,Authenticated
+2024-05-14,1261,Success,0,1,Maharashtra,Other,P2P,Android,4G,Paytm Bank,Yes Bank,46-55,Authenticated
+2024-12-02,3553,Failed,0,0,Andhra Pradesh,Transport,P2M,Android,5G,PNB,Paytm Bank,26-35,Authenticated
+2024-08-12,925,Success,0,1,Andhra Pradesh,Transport,P2M,Android,4G,UPI-Pay,Yes Bank,26-35,Authenticated
+2024-07-29,652,Success,0,1,Uttar Pradesh,Education,P2M,iOS,4G,ICICI,Yes Bank,26-35,Authenticated
+2024-08-19,991,Success,0,1,Tamil Nadu,Utilities,Bill Payment,Android,4G,Paytm Bank,HDFC,26-35,Authenticated
+2024-12-15,624,Success,0,1,Maharashtra,Other,P2P,Android,4G,HDFC,Paytm Bank,18-25,Authenticated
+2024-09-01,5478,Success,0,1,Maharashtra,Other,P2P,Android,5G,HDFC,Yes Bank,36-45,Authenticated
+2024-08-29,1617,Success,0,1,Maharashtra,Transport,P2M,Android,4G,ICICI,Axis,36-45,Authenticated
+2024-12-17,485,Success,0,1,Rajasthan,Utilities,P2M,Android,4G,HDFC,Axis,18-25,Authenticated
+2024-06-05,176,Success,0,1,Telangana,Other,Recharge,Android,4G,Axis,UPI-Pay,36-45,Authenticated
+2024-10-27,1001,Success,0,1,Andhra Pradesh,Fuel,P2M,Android,5G,UPI-Pay,SBI,36-45,Authenticated
+2024-05-14,527,Success,0,1,West Bengal,Other,P2P,Android,4G,UPI-Pay,HDFC,46-55,Authenticated
+2024-09-01,328,Success,0,1,West Bengal,Grocery,P2M,iOS,4G,ICICI,UPI-Pay,18-25,Authenticated
+2024-12-11,1140,Success,0,1,Tamil Nadu,Other,Recharge,Android,4G,Yes Bank,ICICI,46-55,Authenticated
+2024-05-13,285,Success,0,1,Tamil Nadu,Other,P2P,Android,WiFi,UPI-Pay,Axis,36-45,Authenticated
+2024-03-10,1290,Success,0,1,Karnataka,Other,P2P,Android,4G,SBI,ICICI,26-35,Authenticated
+2024-11-08,353,Success,0,1,Uttar Pradesh,Other,P2P,Android,WiFi,SBI,Paytm Bank,26-35,Authenticated
+2024-10-28,783,Success,0,1,Maharashtra,Other,P2P,Android,4G,Paytm Bank,SBI,18-25,Authenticated
+2024-08-03,508,Failed,0,0,Telangana,Other,P2P,Android,5G,UPI-Pay,ICICI,18-25,Authenticated
+2024-05-25,672,Success,0,1,Delhi,Utilities,P2M,iOS,4G,UPI-Pay,SBI,46-55,Authenticated
+2024-04-06,354,Success,0,1,Tamil Nadu,Utilities,Bill Payment,Android,5G,Paytm Bank,ICICI,26-35,Authenticated
+2024-07-13,5677,Success,0,1,Telangana,Healthcare,P2M,Android,4G,SBI,Axis,18-25,Authenticated
+2024-03-31,1242,Success,0,1,Maharashtra,Utilities,P2M,Android,4G,ICICI,Paytm Bank,26-35,Authenticated
+2024-08-19,740,Success,0,1,West Bengal,Other,Recharge,Android,4G,SBI,Yes Bank,18-25,Authenticated
+2024-12-30,468,Success,0,1,Andhra Pradesh,Other,P2P,Android,4G,HDFC,PNB,26-35,Authenticated
+2024-02-09,569,Success,0,1,Maharashtra,Entertainment,P2M,Android,4G,Axis,HDFC,36-45,Authenticated
+2024-02-04,714,Success,0,1,Andhra Pradesh,Utilities,Bill Payment,iOS,4G,Paytm Bank,PNB,18-25,Authenticated
+2024-09-17,713,Success,0,1,Gujarat,Other,P2P,Android,4G,Paytm Bank,Axis,56+,Authenticated
+2024-03-19,2705,Success,0,1,Andhra Pradesh,Other,P2P,Android,4G,ICICI,UPI-Pay,36-45,Authenticated
+2024-02-18,517,Success,0,1,Uttar Pradesh,Other,P2M,Android,4G,SBI,Axis,56+,Authenticated
+2024-01-29,3402,Success,0,1,Andhra Pradesh,Healthcare,P2M,Android,5G,SBI,HDFC,46-55,Authenticated
+2024-05-07,1304,Success,0,1,Karnataka,Other,P2P,iOS,4G,Yes Bank,UPI-Pay,26-35,Suspicious
+2024-07-17,670,Success,0,1,Andhra Pradesh,Other,Recharge,Android,4G,SBI,Paytm Bank,26-35,Authenticated
+2024-10-01,865,Success,0,1,Andhra Pradesh,Utilities,Bill Payment,Android,5G,Axis,SBI,56+,Authenticated
+2024-12-09,307,Success,0,1,Karnataka,Other,P2P,Android,5G,ICICI,SBI,36-45,Authenticated
+2024-04-13,1434,Success,0,1,Gujarat,Other,P2P,Android,WiFi,UPI-Pay,PNB,18-25,Authenticated
+2024-09-03,1458,Success,0,1,Telangana,Utilities,P2M,Android,4G,UPI-Pay,HDFC,18-25,Authenticated
+2024-07-17,867,Success,0,1,Rajasthan,Grocery,P2M,Android,WiFi,Paytm Bank,Yes Bank,36-45,Authenticated
+2024-02-09,1189,Success,0,1,Karnataka,Other,P2P,Android,5G,Yes Bank,SBI,26-35,Authenticated
+2024-03-22,912,Success,0,1,Maharashtra,Other,P2P,Android,5G,Paytm Bank,ICICI,36-45,Authenticated
+2024-02-25,1471,Success,0,1,West Bengal,Other,P2P,Android,5G,Yes Bank,PNB,26-35,Authenticated
+2024-12-13,540,Success,0,1,Maharashtra,Other,P2P,iOS,5G,UPI-Pay,Yes Bank,18-25,Authenticated
+2024-01-26,348,Success,0,1,Rajasthan,Entertainment,P2M,Android,4G,ICICI,UPI-Pay,26-35,Authenticated
+2024-07-11,996,Failed,0,0,Rajasthan,Transport,P2M,iOS,4G,UPI-Pay,Axis,26-35,Authenticated
+2024-02-19,1113,Success,0,1,Karnataka,Education,P2M,iOS,4G,Paytm Bank,Yes Bank,56+,Authenticated
+2024-09-22,946,Success,0,1,Tamil Nadu,Transport,P2M,Android,WiFi,SBI,ICICI,36-45,Authenticated
+2024-07-19,1410,Success,0,1,Telangana,Utilities,Bill Payment,Android,4G,HDFC,ICICI,36-45,Authenticated
+2024-10-31,1251,Success,0,1,Delhi,Other,P2P,Android,WiFi,PNB,HDFC,26-35,Authenticated
+2024-10-30,500,Failed,0,0,Andhra Pradesh,Grocery,P2M,Android,4G,ICICI,SBI,26-35,Authenticated
+2024-01-19,630,Success,0,1,Maharashtra,Education,P2M,Android,4G,Axis,Yes Bank,36-45,Authenticated
+2024-11-27,653,Success,0,1,Tamil Nadu,Healthcare,P2M,Android,5G,Paytm Bank,Yes Bank,26-35,Authenticated
+2024-07-12,335,Success,0,1,Uttar Pradesh,Healthcare,P2M,Android,4G,Paytm Bank,Yes Bank,26-35,Authenticated
+2024-06-10,1429,Success,0,1,Maharashtra,Other,P2P,Android,4G,Axis,Paytm Bank,26-35,Authenticated
+2024-03-14,7057,Success,0,1,Uttar Pradesh,Shopping,P2M,Android,4G,SBI,HDFC,46-55,Authenticated
+2024-05-25,216,Success,0,1,Maharashtra,Healthcare,P2M,Android,4G,Paytm Bank,PNB,36-45,Authenticated
+2024-04-24,1371,Success,0,1,Tamil Nadu,Utilities,Bill Payment,Android,4G,SBI,PNB,36-45,Authenticated
+2024-05-16,1110,Success,0,1,Tamil Nadu,Utilities,P2M,iOS,4G,ICICI,Axis,18-25,Authenticated
+2024-08-29,415,Success,0,1,Telangana,Other,P2P,iOS,5G,HDFC,ICICI,36-45,Authenticated
+2024-09-29,3777,Success,0,1,Tamil Nadu,Other,Recharge,iOS,5G,PNB,ICICI,36-45,Authenticated
+2024-10-09,273,Failed,0,0,Telangana,Other,P2M,Android,5G,Axis,Yes Bank,26-35,Authenticated
+2024-07-10,3760,Success,0,1,Karnataka,Other,P2P,iOS,4G,UPI-Pay,HDFC,36-45,Authenticated
+2024-05-02,1124,Success,0,1,Gujarat,Utilities,Bill Payment,iOS,5G,Yes Bank,UPI-Pay,46-55,Authenticated
+2024-11-01,381,Success,0,1,Gujarat,Other,P2P,Android,4G,Axis,UPI-Pay,56+,Authenticated
+2024-10-25,1437,Success,0,1,Karnataka,Other,P2P,Android,4G,PNB,ICICI,36-45,Authenticated
+2024-02-07,1080,Success,0,1,Rajasthan,Utilities,Bill Payment,iOS,5G,Yes Bank,SBI,26-35,Authenticated
+2024-02-23,267,Success,0,1,Delhi,Other,P2P,Android,4G,HDFC,Paytm Bank,36-45,Authenticated
+2024-09-30,508,Failed,0,0,West Bengal,Other,P2M,Android,5G,PNB,ICICI,26-35,Authenticated
+2024-03-01,1277,Success,0,1,Karnataka,Entertainment,P2M,Android,WiFi,Paytm Bank,SBI,26-35,Authenticated
+2024-03-31,953,Success,0,1,Karnataka,Other,P2P,Android,4G,UPI-Pay,ICICI,26-35,Authenticated
+2024-12-10,1044,Success,0,1,Telangana,Other,P2P,Android,4G,HDFC,PNB,36-45,Authenticated
+2024-12-19,1173,Success,0,1,West Bengal,Utilities,Bill Payment,Android,WiFi,HDFC,UPI-Pay,26-35,Authenticated
+2024-08-08,8588,Success,0,1,Maharashtra,Food,P2M,Android,4G,HDFC,Axis,46-55,Authenticated
+2024-01-14,627,Success,0,1,Karnataka,Other,P2P,Android,4G,HDFC,SBI,36-45,Authenticated
+2024-12-23,1045,Success,0,1,Gujarat,Transport,P2M,Android,5G,HDFC,Paytm Bank,46-55,Authenticated
+2024-11-25,1235,Success,0,1,Rajasthan,Utilities,P2M,Android,4G,Yes Bank,Paytm Bank,26-35,Authenticated
+2024-03-01,1101,Success,0,1,Gujarat,Other,P2P,Android,WiFi,Yes Bank,HDFC,18-25,Authenticated
+2024-12-12,9838,Success,0,1,Delhi,Shopping,P2M,iOS,5G,UPI-Pay,PNB,36-45,Authenticated
+2024-09-21,178,Success,0,1,Uttar Pradesh,Other,P2P,Android,5G,Axis,ICICI,56+,Authenticated
+2024-07-10,238,Success,0,1,Maharashtra,Fuel,P2M,Android,4G,UPI-Pay,Axis,18-25,Authenticated
+2024-09-04,571,Success,0,1,Tamil Nadu,Food,P2M,Android,4G,SBI,ICICI,36-45,Authenticated
+2024-12-29,306,Success,0,1,Gujarat,Grocery,P2M,Android,5G,Yes Bank,UPI-Pay,26-35,Authenticated
+2024-11-05,1297,Success,0,1,Gujarat,Other,Recharge,Android,4G,PNB,UPI-Pay,18-25,Authenticated
+2024-11-09,1142,Success,0,1,West Bengal,Utilities,Bill Payment,Android,WiFi,ICICI,UPI-Pay,36-45,Authenticated
+2024-07-15,270,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,UPI-Pay,Yes Bank,26-35,Authenticated
+2024-02-17,525,Success,0,1,Telangana,Other,P2P,Android,WiFi,PNB,HDFC,18-25,Authenticated
+2024-05-05,609,Success,0,1,Uttar Pradesh,Transport,P2M,Android,4G,UPI-Pay,Paytm Bank,26-35,Authenticated
+2024-09-17,677,Success,0,1,Karnataka,Other,P2P,Android,4G,Axis,HDFC,36-45,Authenticated
+2024-09-21,776,Success,0,1,West Bengal,Other,Recharge,Android,4G,Yes Bank,Paytm Bank,26-35,Authenticated
+2024-09-01,4811,Success,0,1,Delhi,Grocery,P2M,Android,4G,UPI-Pay,SBI,46-55,Authenticated
+2024-03-11,432,Success,0,1,Tamil Nadu,Grocery,P2M,Android,4G,ICICI,PNB,46-55,Authenticated
+2024-03-13,514,Success,0,1,Andhra Pradesh,Utilities,Bill Payment,Android,4G,ICICI,Yes Bank,26-35,Authenticated
+2024-08-03,1390,Success,0,1,Telangana,Other,Recharge,Android,4G,HDFC,Axis,26-35,Authenticated
+2024-08-01,474,Success,0,1,Maharashtra,Other,P2P,Android,4G,Paytm Bank,PNB,26-35,Authenticated
+2024-01-14,366,Success,0,1,Tamil Nadu,Entertainment,P2M,Android,4G,ICICI,UPI-Pay,26-35,Authenticated
+2024-08-06,1438,Success,0,1,Delhi,Other,P2P,iOS,4G,Paytm Bank,SBI,26-35,Authenticated
+2024-10-21,1371,Success,0,1,Uttar Pradesh,Education,P2M,iOS,4G,SBI,ICICI,36-45,Authenticated
+2024-03-22,773,Success,0,1,Uttar Pradesh,Utilities,Bill Payment,Android,WiFi,UPI-Pay,HDFC,26-35,Authenticated
+2024-11-24,7144,Success,0,1,Maharashtra,Other,P2P,iOS,4G,PNB,UPI-Pay,26-35,Authenticated
+2024-02-24,555,Success,0,1,Rajasthan,Shopping,P2M,Android,4G,Paytm Bank,HDFC,18-25,Authenticated
+2024-07-29,103,Success,0,1,Andhra Pradesh,Other,P2P,Android,5G,Yes Bank,ICICI,26-35,Authenticated
+2024-01-01,716,Success,0,1,Gujarat,Other,Recharge,Android,5G,SBI,Yes Bank,26-35,Authenticated
+2024-02-22,9849,Success,0,1,Maharashtra,Other,P2P,Android,4G,Paytm Bank,ICICI,46-55,Authenticated
+2024-10-31,799,Success,0,1,Gujarat,Food,P2M,Android,4G,SBI,Yes Bank,26-35,Authenticated
+2024-11-17,762,Success,0,1,Delhi,Fuel,P2M,Android,4G,Paytm Bank,Axis,18-25,Authenticated
+2024-03-17,1008,Success,0,1,Maharashtra,Other,P2P,Android,4G,SBI,UPI-Pay,36-45,Authenticated
+2024-07-26,1109,Success,0,1,Rajasthan,Other,Recharge,Android,5G,Yes Bank,SBI,18-25,Authenticated
+2024-06-30,721,Success,0,1,Telangana,Food,P2M,iOS,4G,PNB,Yes Bank,36-45,Authenticated
+2024-11-11,1167,Success,0,1,Delhi,Fuel,P2M,Android,4G,SBI,ICICI,36-45,Authenticated
+2024-04-26,613,Success,0,1,Rajasthan,Other,P2P,Android,4G,Paytm Bank,HDFC,18-25,Authenticated
+2024-05-18,1182,Success,0,1,Karnataka,Other,P2P,Android,4G,HDFC,Paytm Bank,36-45,Authenticated
+2024-08-11,6665,Success,0,1,Delhi,Other,P2P,Android,WiFi,HDFC,Axis,26-35,Authenticated
+2024-03-19,1047,Success,0,1,Maharashtra,Other,P2P,Android,4G,Paytm Bank,Yes Bank,26-35,Authenticated
+2024-03-06,1287,Success,0,1,Tamil Nadu,Other,P2P,Android,WiFi,SBI,Paytm Bank,36-45,Authenticated
+2024-01-14,706,Success,0,1,Karnataka,Other,P2P,Android,5G,PNB,ICICI,26-35,Authenticated
+2024-06-17,200,Success,0,1,Karnataka,Other,P2P,iOS,4G,HDFC,Paytm Bank,18-25,Authenticated
+2024-05-17,1405,Success,0,1,West Bengal,Other,Recharge,Android,4G,HDFC,PNB,26-35,Authenticated
+2024-10-15,991,Success,0,1,Karnataka,Other,P2P,iOS,5G,Yes Bank,ICICI,26-35,Authenticated
+2024-03-09,842,Success,0,1,Andhra Pradesh,Transport,P2M,Android,4G,ICICI,Yes Bank,56+,Authenticated
+2024-01-22,248,Success,0,1,Uttar Pradesh,Other,P2P,Android,5G,ICICI,HDFC,18-25,Authenticated
+2024-04-02,991,Success,0,1,Rajasthan,Fuel,P2M,Android,4G,ICICI,HDFC,26-35,Authenticated
+2024-04-07,6575,Success,0,1,Karnataka,Other,P2P,Android,4G,ICICI,PNB,18-25,Authenticated
+2024-09-25,1458,Success,0,1,Gujarat,Utilities,Bill Payment,iOS,4G,Axis,Paytm Bank,56+,Authenticated
+2024-04-17,963,Success,0,1,Tamil Nadu,Education,P2M,iOS,5G,HDFC,SBI,56+,Authenticated
+2024-02-12,2410,Success,0,1,Tamil Nadu,Other,Recharge,iOS,4G,Axis,PNB,46-55,Authenticated
+2024-09-23,121,Success,0,1,Karnataka,Entertainment,P2M,iOS,4G,Yes Bank,PNB,36-45,Authenticated
+2024-10-10,123,Failed,0,0,Rajasthan,Other,P2P,Android,4G,UPI-Pay,Yes Bank,26-35,Authenticated
+2024-01-22,1212,Success,0,1,Delhi,Utilities,Bill Payment,Android,4G,ICICI,Paytm Bank,26-35,Authenticated
+2024-04-04,938,Success,0,1,Karnataka,Other,P2P,Android,4G,SBI,PNB,26-35,Authenticated
+2024-09-04,3642,Success,0,1,West Bengal,Other,P2P,iOS,WiFi,SBI,Axis,36-45,Authenticated
+2024-03-29,206,Success,0,1,Rajasthan,Other,P2P,Android,4G,HDFC,PNB,36-45,Authenticated
+2024-06-02,1412,Success,0,1,Maharashtra,Healthcare,P2M,Android,4G,Yes Bank,PNB,36-45,Authenticated
+2024-03-11,4787,Success,0,1,Maharashtra,Other,P2P,Android,5G,Yes Bank,SBI,18-25,Authenticated
+2024-11-09,253,Success,0,1,Karnataka,Other,P2P,iOS,5G,ICICI,PNB,26-35,Authenticated
+2024-04-04,677,Success,0,1,Maharashtra,Other,P2P,Android,5G,UPI-Pay,Yes Bank,26-35,Authenticated
+2024-02-18,428,Success,0,1,Rajasthan,Healthcare,P2M,Android,WiFi,UPI-Pay,PNB,36-45,Authenticated
+2024-10-02,333,Success,0,1,Telangana,Utilities,Bill Payment,Android,4G,SBI,UPI-Pay,36-45,Authenticated
+2024-01-13,133,Success,0,1,Karnataka,Other,P2P,Android,4G,UPI-Pay,Paytm Bank,36-45,Authenticated
+2024-07-14,121,Success,0,1,Delhi,Other,P2P,Android,4G,Yes Bank,Axis,18-25,Authenticated
+2024-05-24,118,Success,0,1,Telangana,Utilities,P2M,Android,4G,SBI,PNB,26-35,Authenticated
+2024-07-08,681,Success,0,1,Telangana,Healthcare,P2M,Android,5G,Paytm Bank,SBI,26-35,Authenticated
+2024-09-25,442,Success,0,1,Maharashtra,Utilities,P2M,Android,4G,Axis,PNB,18-25,Authenticated
+2024-10-03,9058,Success,0,1,Gujarat,Other,P2P,Android,WiFi,Paytm Bank,SBI,36-45,Authenticated
+2024-07-31,134,Success,0,1,Delhi,Other,P2P,Android,5G,SBI,ICICI,26-35,Authenticated
+2024-11-12,293,Success,0,1,Rajasthan,Utilities,Bill Payment,Android,5G,UPI-Pay,Yes Bank,36-45,Authenticated
+2024-10-10,709,Failed,0,0,Maharashtra,Other,P2P,iOS,WiFi,HDFC,Paytm Bank,26-35,Authenticated
+2024-10-26,341,Success,0,1,Tamil Nadu,Other,P2P,iOS,WiFi,Yes Bank,SBI,36-45,Authenticated
+2024-10-31,102,Failed,0,0,West Bengal,Entertainment,P2M,Android,4G,Paytm Bank,UPI-Pay,18-25,Authenticated
+2024-09-10,1007,Success,0,1,Rajasthan,Other,P2P,Android,5G,HDFC,ICICI,36-45,Authenticated
+2024-11-17,721,Success,0,1,Uttar Pradesh,Other,P2P,iOS,5G,UPI-Pay,ICICI,26-35,Authenticated
+2024-12-01,1271,Success,0,1,Telangana,Other,P2P,Android,4G,Axis,Yes Bank,36-45,Authenticated
+2024-06-09,744,Success,0,1,Uttar Pradesh,Utilities,Bill Payment,Android,4G,ICICI,Yes Bank,56+,Authenticated
+2024-04-23,1496,Success,0,1,Uttar Pradesh,Shopping,P2M,Android,5G,PNB,Paytm Bank,36-45,Authenticated
+2024-12-26,1245,Success,0,1,Rajasthan,Other,P2P,Android,4G,HDFC,Paytm Bank,26-35,Authenticated
+2024-03-16,441,Success,0,1,Maharashtra,Other,P2P,Android,WiFi,Yes Bank,ICICI,26-35,Authenticated
+2024-03-24,229,Success,0,1,Maharashtra,Other,P2P,Android,4G,Paytm Bank,PNB,46-55,Authenticated
+2024-06-06,510,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,PNB,ICICI,18-25,Authenticated
+2024-10-30,1491,Success,0,1,Uttar Pradesh,Other,P2M,Android,5G,ICICI,UPI-Pay,26-35,Authenticated
+2024-08-08,927,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,Paytm Bank,PNB,46-55,Authenticated
+2024-04-07,379,Success,0,1,Uttar Pradesh,Entertainment,P2M,Android,4G,PNB,Paytm Bank,46-55,Authenticated
+2024-07-21,1111,Failed,0,0,Delhi,Transport,P2M,Android,4G,Paytm Bank,Yes Bank,26-35,Authenticated
+2024-10-23,560,Success,0,1,Maharashtra,Shopping,P2M,Android,4G,Yes Bank,Axis,26-35,Authenticated
+2024-04-04,1333,Success,0,1,Maharashtra,Fuel,P2M,iOS,4G,PNB,ICICI,26-35,Authenticated
+2024-12-14,1463,Success,0,1,Andhra Pradesh,Entertainment,P2M,Android,5G,Axis,SBI,36-45,Authenticated
+2024-09-18,2909,Success,0,1,Maharashtra,Other,P2P,Android,4G,UPI-Pay,Yes Bank,36-45,Suspicious
+2024-06-02,1118,Success,0,1,Rajasthan,Fuel,P2M,Android,4G,PNB,ICICI,26-35,Authenticated
+2024-12-18,2270,Success,0,1,Delhi,Other,P2P,Android,5G,Yes Bank,Paytm Bank,26-35,Authenticated
+2024-09-12,1281,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,Paytm Bank,SBI,36-45,Authenticated
+2024-01-04,189,Success,0,1,Andhra Pradesh,Other,P2P,Android,4G,SBI,HDFC,18-25,Authenticated
+2024-11-16,864,Success,0,1,Delhi,Other,P2M,iOS,4G,HDFC,SBI,56+,Authenticated
+2024-07-15,1283,Success,0,1,Karnataka,Grocery,P2M,iOS,4G,UPI-Pay,Axis,26-35,Authenticated
+2024-07-09,1327,Success,0,1,Karnataka,Other,P2P,Android,4G,ICICI,PNB,26-35,Authenticated
+2024-02-20,271,Success,0,1,Rajasthan,Other,P2P,Android,4G,SBI,ICICI,36-45,Authenticated
+2024-02-13,692,Success,0,1,Uttar Pradesh,Other,Recharge,Android,5G,Paytm Bank,PNB,18-25,Authenticated
+2024-07-25,2865,Success,0,1,Karnataka,Other,P2P,Android,4G,PNB,Axis,46-55,Authenticated
+2024-11-17,1425,Success,0,1,Maharashtra,Other,P2M,Android,4G,ICICI,HDFC,26-35,Authenticated
+2024-12-24,1129,Success,0,1,Telangana,Utilities,Bill Payment,Android,4G,Paytm Bank,ICICI,26-35,Authenticated
+2024-11-23,957,Success,0,1,Rajasthan,Other,P2P,Android,4G,ICICI,Yes Bank,26-35,Authenticated
+2024-03-06,1226,Success,0,1,Karnataka,Other,P2P,Android,5G,Yes Bank,ICICI,46-55,Authenticated
+2024-12-15,1110,Success,0,1,Maharashtra,Other,P2M,Android,WiFi,PNB,ICICI,36-45,Authenticated
+2024-11-20,1438,Success,0,1,Uttar Pradesh,Other,P2P,Android,5G,ICICI,PNB,26-35,Authenticated
+2024-08-13,1233,Success,0,1,Rajasthan,Other,P2P,Android,4G,Paytm Bank,PNB,18-25,Authenticated
+2024-01-01,546,Success,0,1,West Bengal,Food,P2M,Android,5G,PNB,HDFC,46-55,Authenticated
+2024-05-25,1346,Success,0,1,Tamil Nadu,Other,P2P,Android,4G,Paytm Bank,SBI,36-45,Authenticated
+2024-12-17,4006,Success,0,1,Tamil Nadu,Utilities,Bill Payment,Android,WiFi,SBI,Axis,36-45,Authenticated
+2024-01-08,388,Success,0,1,Tamil Nadu,Fuel,P2M,Android,4G,ICICI,Paytm Bank,18-25,Authenticated
+2024-07-01,1290,Success,0,1,Andhra Pradesh,Utilities,P2M,Android,4G,HDFC,PNB,36-45,Authenticated
+2024-10-25,117,Success,0,1,West Bengal,Other,Recharge,Android,4G,HDFC,UPI-Pay,26-35,Authenticated
+2024-12-24,9714,Success,0,1,Tamil Nadu,Other,P2P,Android,4G,ICICI,UPI-Pay,26-35,Authenticated
+2024-11-03,370,Success,0,1,Karnataka,Utilities,Bill Payment,Android,5G,HDFC,Axis,26-35,Authenticated
+2024-10-05,202,Success,0,1,Uttar Pradesh,Other,P2P,Android,5G,PNB,ICICI,46-55,Authenticated
+2024-07-29,604,Success,0,1,Maharashtra,Healthcare,P2M,Android,5G,UPI-Pay,Axis,36-45,Authenticated
+2024-11-14,361,Success,0,1,West Bengal,Other,P2P,iOS,4G,Yes Bank,UPI-Pay,26-35,Authenticated
+2024-09-28,337,Success,0,1,Delhi,Utilities,Bill Payment,iOS,4G,Paytm Bank,Yes Bank,26-35,Authenticated
+2024-02-07,1422,Success,0,1,Tamil Nadu,Fuel,P2M,Android,4G,ICICI,UPI-Pay,26-35,Authenticated
+2024-12-13,267,Success,0,1,Gujarat,Other,P2P,Android,4G,HDFC,PNB,26-35,Authenticated
+2024-06-12,1383,Success,0,1,Uttar Pradesh,Other,P2P,iOS,5G,HDFC,UPI-Pay,26-35,Authenticated
+2024-04-22,187,Success,0,1,Uttar Pradesh,Transport,P2M,iOS,5G,Paytm Bank,PNB,26-35,Authenticated
+2024-12-16,636,Success,0,1,Delhi,Other,P2P,Android,5G,UPI-Pay,Paytm Bank,26-35,Authenticated
+2024-03-06,386,Success,0,1,Telangana,Other,P2P,Android,5G,ICICI,SBI,46-55,Authenticated
+2024-04-18,573,Success,0,1,West Bengal,Other,P2P,Android,5G,Yes Bank,Paytm Bank,36-45,Authenticated
+2024-07-02,1339,Success,0,1,West Bengal,Utilities,P2M,Android,4G,Yes Bank,SBI,36-45,Authenticated
+2024-05-15,990,Success,0,1,Delhi,Other,P2P,Android,WiFi,UPI-Pay,Axis,36-45,Authenticated
+2024-11-10,449,Success,0,1,Telangana,Other,Recharge,Android,4G,Axis,Yes Bank,36-45,Authenticated
+2024-03-13,385,Success,0,1,Karnataka,Other,P2P,iOS,WiFi,Paytm Bank,Axis,18-25,Authenticated
+2024-02-15,1449,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,UPI-Pay,Paytm Bank,18-25,Authenticated
+2024-01-02,1328,Success,0,1,Telangana,Other,P2P,Android,4G,Yes Bank,UPI-Pay,36-45,Authenticated
+2024-12-23,1011,Success,0,1,Maharashtra,Other,P2M,Android,4G,UPI-Pay,Axis,46-55,Authenticated
+2024-01-12,554,Success,0,1,Tamil Nadu,Fuel,P2M,Android,4G,ICICI,Paytm Bank,26-35,Authenticated
+2024-06-16,193,Success,0,1,Telangana,Utilities,Bill Payment,Android,4G,Axis,PNB,18-25,Authenticated
+2024-02-18,504,Failed,0,0,Uttar Pradesh,Utilities,Bill Payment,Android,5G,UPI-Pay,Paytm Bank,18-25,Authenticated
+2024-09-21,1015,Success,0,1,Rajasthan,Utilities,Bill Payment,Android,4G,ICICI,HDFC,46-55,Authenticated
+2024-01-30,577,Success,0,1,Gujarat,Other,P2P,Android,WiFi,UPI-Pay,Yes Bank,18-25,Authenticated
+2024-07-30,730,Success,0,1,Maharashtra,Other,P2P,Android,4G,UPI-Pay,Paytm Bank,26-35,Authenticated
+2024-11-30,237,Success,0,1,Tamil Nadu,Other,P2P,Android,4G,SBI,UPI-Pay,36-45,Authenticated
+2024-04-26,721,Success,0,1,Telangana,Other,P2M,Android,4G,UPI-Pay,PNB,18-25,Authenticated
+2024-02-16,1419,Success,0,1,Uttar Pradesh,Healthcare,P2M,Android,WiFi,Yes Bank,ICICI,46-55,Authenticated
+2024-04-26,727,Success,0,1,Delhi,Other,P2M,Android,5G,Yes Bank,UPI-Pay,56+,Authenticated
+2024-07-27,812,Success,0,1,Gujarat,Other,P2M,Android,4G,HDFC,PNB,36-45,Authenticated
+2024-07-22,877,Success,0,1,Uttar Pradesh,Healthcare,P2M,Android,4G,Yes Bank,UPI-Pay,18-25,Authenticated
+2024-05-18,1281,Success,0,1,Karnataka,Fuel,P2M,Android,4G,PNB,Yes Bank,36-45,Authenticated
+2024-04-09,443,Success,0,1,Uttar Pradesh,Other,P2P,Android,5G,SBI,Axis,36-45,Authenticated
+2024-07-25,1139,Success,0,1,Uttar Pradesh,Utilities,Bill Payment,Android,5G,HDFC,PNB,36-45,Authenticated
+2024-04-22,516,Success,0,1,Andhra Pradesh,Other,P2P,Android,WiFi,ICICI,UPI-Pay,26-35,Authenticated
+2024-10-05,1062,Success,0,1,Rajasthan,Other,P2P,Android,5G,ICICI,Paytm Bank,26-35,Authenticated
+2024-12-27,1087,Success,0,1,Maharashtra,Other,P2P,Android,5G,UPI-Pay,Yes Bank,56+,Authenticated
+2024-06-09,1480,Success,0,1,Gujarat,Utilities,Bill Payment,Android,4G,SBI,ICICI,26-35,Authenticated
+2024-06-21,877,Success,0,1,Telangana,Transport,P2M,Android,WiFi,Paytm Bank,PNB,36-45,Authenticated
+2024-10-17,386,Success,0,1,Maharashtra,Other,P2P,iOS,4G,Axis,ICICI,18-25,Authenticated
+2024-06-22,7765,Success,0,1,Telangana,Utilities,Bill Payment,Android,4G,UPI-Pay,Paytm Bank,46-55,Authenticated
+2024-01-04,525,Failed,0,0,Karnataka,Shopping,P2M,Android,5G,Paytm Bank,SBI,36-45,Authenticated
+2024-07-08,182,Success,0,1,Uttar Pradesh,Other,P2P,Android,5G,HDFC,Axis,26-35,Authenticated
+2024-05-12,1028,Success,0,1,Uttar Pradesh,Other,P2P,Android,5G,Yes Bank,SBI,56+,Authenticated
+2024-05-28,1088,Success,0,1,Tamil Nadu,Other,P2P,Android,4G,PNB,UPI-Pay,56+,Authenticated
+2024-10-26,719,Success,0,1,Rajasthan,Healthcare,P2M,Android,4G,ICICI,UPI-Pay,18-25,Authenticated
+2024-12-15,304,Success,0,1,Karnataka,Other,P2P,Android,4G,Yes Bank,UPI-Pay,36-45,Suspicious
+2024-11-28,8403,Success,0,1,Maharashtra,Other,P2P,Android,5G,PNB,SBI,26-35,Authenticated
+2024-11-01,833,Failed,1,0,Maharashtra,Healthcare,P2M,iOS,5G,HDFC,Axis,26-35,Suspicious
+2024-03-24,1362,Success,0,1,Maharashtra,Other,P2P,Android,4G,SBI,Axis,36-45,Authenticated
+2024-07-27,621,Success,0,1,Gujarat,Other,P2P,Android,5G,Yes Bank,UPI-Pay,36-45,Authenticated
+2024-11-06,1434,Success,0,1,Gujarat,Other,Recharge,iOS,4G,UPI-Pay,Yes Bank,26-35,Authenticated
+2024-08-31,532,Success,0,1,Maharashtra,Other,P2M,Android,WiFi,PNB,UPI-Pay,18-25,Authenticated
+2024-09-29,832,Success,0,1,Rajasthan,Utilities,P2M,Android,5G,Axis,SBI,26-35,Authenticated
+2024-11-30,1202,Success,0,1,Uttar Pradesh,Other,P2P,iOS,5G,PNB,Paytm Bank,46-55,Authenticated
+2024-10-10,1214,Success,0,1,Tamil Nadu,Fuel,P2M,Android,4G,Axis,ICICI,26-35,Authenticated
+2024-07-11,230,Success,0,1,Delhi,Other,P2P,Android,4G,ICICI,UPI-Pay,46-55,Authenticated
+2024-11-18,915,Success,0,1,Uttar Pradesh,Other,P2M,iOS,4G,Axis,ICICI,46-55,Authenticated
+2024-02-07,148,Success,0,1,Uttar Pradesh,Other,P2P,Android,5G,ICICI,HDFC,36-45,Authenticated
+2024-05-23,1303,Success,0,1,Andhra Pradesh,Food,P2M,Android,4G,ICICI,Axis,36-45,Suspicious
+2024-11-08,698,Success,0,1,Karnataka,Utilities,Bill Payment,iOS,4G,UPI-Pay,Axis,36-45,Authenticated
+2024-04-19,1216,Success,0,1,Delhi,Other,P2P,iOS,5G,Yes Bank,Axis,36-45,Authenticated
+2024-09-23,749,Success,0,1,Maharashtra,Utilities,Bill Payment,Android,4G,Yes Bank,UPI-Pay,18-25,Authenticated
+2024-11-23,599,Success,0,1,Delhi,Utilities,Bill Payment,Android,5G,PNB,SBI,18-25,Authenticated
+2024-04-20,287,Success,0,1,Tamil Nadu,Education,P2M,Android,5G,ICICI,Axis,46-55,Authenticated
+2024-12-04,7531,Success,0,1,West Bengal,Education,P2M,Android,4G,HDFC,ICICI,46-55,Authenticated
+2024-10-31,4926,Success,0,1,Telangana,Other,P2M,Android,WiFi,SBI,HDFC,18-25,Authenticated
+2024-02-07,884,Success,0,1,Karnataka,Grocery,P2M,Android,4G,Yes Bank,PNB,36-45,Authenticated
+2024-01-15,111,Success,0,1,Uttar Pradesh,Other,P2P,iOS,WiFi,HDFC,Yes Bank,26-35,Authenticated
+2024-07-15,858,Success,0,1,Maharashtra,Utilities,Bill Payment,Android,5G,UPI-Pay,PNB,56+,Authenticated
+2024-06-30,6237,Success,0,1,Karnataka,Other,P2P,Android,4G,ICICI,SBI,36-45,Authenticated
+2024-09-21,916,Success,0,1,Delhi,Other,P2P,iOS,4G,Axis,Yes Bank,18-25,Authenticated
+2024-03-21,434,Success,0,1,Delhi,Other,P2P,Android,4G,Axis,Yes Bank,18-25,Suspicious
+2024-07-13,868,Success,0,1,Maharashtra,Entertainment,P2M,Android,5G,SBI,Paytm Bank,18-25,Authenticated
+2024-10-06,1315,Success,0,1,Maharashtra,Other,P2P,iOS,4G,SBI,ICICI,26-35,Authenticated
+2024-11-20,175,Failed,0,0,Gujarat,Transport,P2M,Android,4G,UPI-Pay,HDFC,26-35,Authenticated
+2024-01-31,8413,Success,0,1,Karnataka,Other,P2P,iOS,4G,Paytm Bank,HDFC,26-35,Authenticated
+2024-04-16,2500,Success,0,1,Tamil Nadu,Other,P2P,Android,5G,Axis,SBI,26-35,Authenticated
+2024-04-06,679,Success,0,1,Maharashtra,Other,P2P,iOS,4G,Paytm Bank,Yes Bank,26-35,Authenticated
+2024-07-02,427,Success,0,1,Rajasthan,Grocery,P2M,Android,5G,Paytm Bank,HDFC,26-35,Authenticated
+2024-08-21,1222,Success,0,1,Uttar Pradesh,Entertainment,P2M,Android,5G,Axis,SBI,36-45,Authenticated
+2024-04-22,639,Success,0,1,West Bengal,Utilities,Bill Payment,Android,4G,UPI-Pay,Axis,26-35,Authenticated
+2024-07-06,689,Success,0,1,Karnataka,Other,P2P,Android,4G,Axis,Yes Bank,36-45,Authenticated
+2024-01-11,779,Success,0,1,Maharashtra,Other,P2P,Android,4G,Yes Bank,SBI,26-35,Authenticated
+2024-10-30,246,Success,0,1,Delhi,Education,P2M,Android,5G,Paytm Bank,Axis,26-35,Authenticated
+2024-12-03,718,Success,0,1,Delhi,Food,P2M,Android,4G,Paytm Bank,HDFC,26-35,Authenticated
+2024-01-14,1479,Success,0,1,Tamil Nadu,Healthcare,P2M,iOS,4G,Paytm Bank,Axis,26-35,Authenticated
+2024-02-12,464,Success,0,1,Delhi,Other,P2P,Android,4G,HDFC,SBI,56+,Authenticated
+2024-12-30,1159,Failed,0,0,Tamil Nadu,Utilities,Bill Payment,Android,4G,HDFC,PNB,18-25,Authenticated
+2024-05-23,296,Success,0,1,Delhi,Other,P2P,Android,4G,Axis,PNB,26-35,Authenticated
+2024-05-17,518,Success,0,1,Telangana,Transport,P2M,Android,WiFi,HDFC,ICICI,36-45,Authenticated
+2024-01-17,1119,Success,0,1,Delhi,Other,P2P,Android,4G,ICICI,UPI-Pay,36-45,Authenticated
+2024-03-06,3486,Success,0,1,Uttar Pradesh,Utilities,Bill Payment,Android,WiFi,Yes Bank,Paytm Bank,26-35,Authenticated
+2024-03-16,495,Success,0,1,Andhra Pradesh,Utilities,Bill Payment,Android,4G,Paytm Bank,UPI-Pay,36-45,Authenticated
+2024-11-22,267,Success,0,1,Maharashtra,Utilities,P2M,Android,4G,UPI-Pay,Yes Bank,46-55,Authenticated
+2024-08-06,1251,Success,0,1,West Bengal,Education,P2M,Android,4G,Axis,UPI-Pay,26-35,Authenticated
+2024-10-08,1180,Success,0,1,Telangana,Other,P2P,Android,4G,Axis,ICICI,46-55,Authenticated
+2024-11-23,952,Success,0,1,Karnataka,Other,P2P,Android,4G,Axis,PNB,18-25,Authenticated
+2024-04-14,148,Success,0,1,Rajasthan,Utilities,Bill Payment,Android,4G,PNB,Yes Bank,36-45,Authenticated
+2024-01-12,689,Success,0,1,Gujarat,Utilities,Bill Payment,Android,WiFi,SBI,UPI-Pay,26-35,Authenticated
+2024-04-23,623,Failed,0,0,Telangana,Utilities,Bill Payment,Android,4G,PNB,HDFC,26-35,Authenticated
+2024-01-07,248,Success,0,1,Karnataka,Food,P2M,Android,5G,Axis,Yes Bank,36-45,Authenticated
+2024-08-19,756,Success,0,1,Rajasthan,Utilities,Bill Payment,iOS,4G,PNB,HDFC,36-45,Authenticated
+2024-02-14,333,Success,0,1,West Bengal,Other,P2P,Android,4G,SBI,UPI-Pay,26-35,Authenticated
+2024-11-20,890,Success,0,1,Maharashtra,Utilities,Bill Payment,Android,4G,Axis,ICICI,26-35,Authenticated
+2024-09-30,297,Success,0,1,Maharashtra,Other,P2P,Android,4G,Paytm Bank,HDFC,36-45,Authenticated
+2024-09-23,1238,Success,0,1,Uttar Pradesh,Utilities,Bill Payment,iOS,4G,Yes Bank,SBI,46-55,Authenticated
+2024-02-18,1048,Success,0,1,Andhra Pradesh,Transport,P2M,Android,4G,PNB,HDFC,36-45,Authenticated
+2024-10-08,267,Success,0,1,Delhi,Transport,P2M,Android,5G,Axis,PNB,26-35,Authenticated
+2024-10-24,442,Success,0,1,Telangana,Other,P2P,iOS,4G,Axis,PNB,18-25,Authenticated
+2024-07-25,1306,Success,0,1,West Bengal,Other,P2P,Android,4G,PNB,SBI,18-25,Authenticated
+2024-08-22,826,Success,0,1,Rajasthan,Other,P2P,Android,5G,UPI-Pay,SBI,46-55,Authenticated
+2024-07-13,124,Success,0,1,Maharashtra,Other,Recharge,Android,4G,ICICI,Paytm Bank,46-55,Authenticated
+2024-10-24,1471,Success,0,1,Delhi,Other,P2M,Android,4G,SBI,Axis,26-35,Authenticated
+2024-12-07,1206,Success,0,1,Andhra Pradesh,Other,P2P,Android,4G,UPI-Pay,SBI,36-45,Authenticated
+2024-01-06,1175,Success,0,1,Gujarat,Shopping,P2M,Android,4G,Paytm Bank,Yes Bank,18-25,Authenticated
+2024-07-15,1220,Success,0,1,Andhra Pradesh,Utilities,Bill Payment,Android,4G,ICICI,HDFC,56+,Authenticated
+2024-03-31,698,Success,0,1,Uttar Pradesh,Education,P2M,Android,4G,SBI,Paytm Bank,46-55,Authenticated
+2024-10-02,757,Success,0,1,Telangana,Other,P2P,iOS,4G,HDFC,Paytm Bank,26-35,Authenticated
+2024-02-16,529,Success,0,1,Tamil Nadu,Entertainment,P2M,Android,4G,HDFC,SBI,36-45,Authenticated
+2024-11-09,9049,Success,0,1,Tamil Nadu,Other,P2P,Android,5G,Yes Bank,HDFC,18-25,Authenticated
+2024-10-07,254,Success,0,1,Rajasthan,Utilities,Bill Payment,Android,4G,SBI,Paytm Bank,36-45,Authenticated
+2024-12-15,548,Success,0,1,Tamil Nadu,Utilities,Bill Payment,Android,4G,Yes Bank,HDFC,26-35,Suspicious
+2024-04-17,817,Success,0,1,Maharashtra,Education,P2M,Android,4G,HDFC,Paytm Bank,26-35,Authenticated
+2024-11-24,676,Success,0,1,Karnataka,Utilities,Bill Payment,Android,4G,Paytm Bank,ICICI,18-25,Authenticated
+2024-03-14,1426,Success,0,1,Uttar Pradesh,Other,P2P,Android,5G,SBI,Yes Bank,36-45,Authenticated
+2024-01-14,1064,Success,0,1,Maharashtra,Other,P2P,iOS,5G,SBI,PNB,26-35,Authenticated
+2024-04-13,1403,Success,0,1,Rajasthan,Entertainment,P2M,Android,5G,Yes Bank,PNB,26-35,Authenticated
+2024-09-25,190,Success,0,1,Maharashtra,Food,P2M,Android,WiFi,ICICI,UPI-Pay,26-35,Authenticated
+2024-06-10,1126,Success,0,1,Karnataka,Utilities,Bill Payment,Android,4G,Paytm Bank,UPI-Pay,26-35,Suspicious
+2024-12-14,705,Success,0,1,Telangana,Food,P2M,Android,4G,HDFC,SBI,18-25,Authenticated
+2024-12-22,618,Success,0,1,Andhra Pradesh,Healthcare,P2M,Android,5G,HDFC,Paytm Bank,18-25,Authenticated
+2024-10-01,373,Success,0,1,Karnataka,Grocery,P2M,Android,4G,Axis,HDFC,26-35,Authenticated
+2024-09-22,1374,Success,0,1,Telangana,Other,P2P,Android,5G,Paytm Bank,HDFC,26-35,Authenticated
+2024-01-14,1313,Success,0,1,Telangana,Other,P2P,Android,5G,PNB,Axis,26-35,Authenticated
+2024-01-16,853,Success,0,1,Maharashtra,Other,P2P,Android,4G,Paytm Bank,HDFC,18-25,Authenticated
+2024-05-12,1380,Success,0,1,Maharashtra,Food,P2M,Android,5G,ICICI,Yes Bank,18-25,Authenticated
+2024-08-10,607,Success,0,1,Tamil Nadu,Utilities,Bill Payment,iOS,5G,Axis,Paytm Bank,26-35,Suspicious
+2024-08-25,1029,Success,0,1,Maharashtra,Other,P2P,iOS,4G,Axis,SBI,46-55,Authenticated
+2024-07-29,923,Success,0,1,Karnataka,Other,P2P,iOS,4G,Paytm Bank,PNB,18-25,Authenticated
+2024-09-12,1480,Success,0,1,Maharashtra,Healthcare,P2M,iOS,4G,SBI,ICICI,46-55,Authenticated
+2024-04-25,1037,Success,0,1,Rajasthan,Other,P2P,Android,4G,SBI,Yes Bank,18-25,Authenticated
+2024-03-31,217,Success,0,1,Andhra Pradesh,Other,P2P,Android,4G,Axis,Paytm Bank,18-25,Authenticated
+2024-12-21,9317,Success,0,1,Telangana,Fuel,P2M,Android,4G,Axis,UPI-Pay,36-45,Authenticated
+2024-07-30,102,Success,0,1,Delhi,Other,P2P,Android,WiFi,Yes Bank,Axis,18-25,Authenticated
+2024-06-29,6401,Success,0,1,Andhra Pradesh,Other,P2P,iOS,4G,Paytm Bank,SBI,18-25,Authenticated
+2024-12-30,7264,Success,0,1,Delhi,Other,P2P,Android,4G,HDFC,Yes Bank,26-35,Authenticated
+2024-06-21,989,Failed,0,0,Tamil Nadu,Food,P2M,Android,5G,Paytm Bank,ICICI,26-35,Authenticated
+2024-05-08,1485,Success,0,1,Rajasthan,Food,P2M,Android,5G,SBI,Axis,26-35,Authenticated
+2024-12-15,151,Success,0,1,Delhi,Other,P2P,iOS,4G,Paytm Bank,SBI,46-55,Authenticated
+2024-01-07,770,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,Paytm Bank,ICICI,26-35,Authenticated
+2024-11-23,1210,Success,0,1,Telangana,Other,P2P,iOS,5G,SBI,HDFC,36-45,Authenticated
+2024-08-29,216,Success,0,1,Maharashtra,Utilities,Bill Payment,Android,4G,Yes Bank,Axis,26-35,Authenticated
+2024-05-29,693,Success,0,1,Uttar Pradesh,Education,P2M,Android,4G,HDFC,SBI,26-35,Authenticated
+2024-08-04,806,Success,0,1,Karnataka,Utilities,Bill Payment,Android,5G,Paytm Bank,UPI-Pay,46-55,Authenticated
+2024-08-06,9207,Success,0,1,Rajasthan,Other,P2P,Android,5G,ICICI,Axis,18-25,Authenticated
+2024-11-05,1208,Success,0,1,Maharashtra,Other,P2P,Android,5G,Yes Bank,ICICI,18-25,Authenticated
+2024-11-09,451,Success,0,1,Telangana,Shopping,P2M,Android,4G,Axis,ICICI,36-45,Authenticated
+2024-01-16,9804,Success,0,1,West Bengal,Transport,P2M,Android,5G,SBI,Paytm Bank,36-45,Authenticated
+2024-08-12,430,Success,0,1,Rajasthan,Utilities,Bill Payment,Android,4G,Yes Bank,UPI-Pay,36-45,Suspicious
+2024-01-30,755,Success,0,1,Karnataka,Utilities,P2M,Android,4G,HDFC,Yes Bank,26-35,Authenticated
+2024-04-26,201,Success,0,1,Maharashtra,Other,P2P,Android,4G,ICICI,SBI,18-25,Authenticated
+2024-08-08,406,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,SBI,ICICI,26-35,Authenticated
+2024-08-03,934,Success,0,1,Maharashtra,Food,P2M,Android,WiFi,ICICI,Paytm Bank,18-25,Authenticated
+2024-08-14,350,Success,0,1,Karnataka,Other,P2P,iOS,4G,SBI,Axis,26-35,Authenticated
+2024-03-15,703,Success,0,1,Delhi,Other,P2P,Android,4G,ICICI,UPI-Pay,46-55,Authenticated
+2024-12-11,699,Success,0,1,Delhi,Utilities,Bill Payment,Android,4G,ICICI,UPI-Pay,56+,Authenticated
+2024-10-11,1439,Success,0,1,West Bengal,Utilities,Bill Payment,iOS,5G,SBI,ICICI,18-25,Authenticated
+2024-06-08,1260,Success,0,1,Rajasthan,Utilities,Bill Payment,Android,4G,Axis,SBI,36-45,Authenticated
+2024-01-12,9215,Success,0,1,Uttar Pradesh,Utilities,Bill Payment,Android,4G,UPI-Pay,PNB,26-35,Authenticated
+2024-02-08,462,Success,0,1,Maharashtra,Other,P2P,Android,4G,ICICI,UPI-Pay,36-45,Authenticated
+2024-08-19,393,Success,0,1,Karnataka,Education,P2M,Android,4G,Axis,SBI,26-35,Suspicious
+2024-01-01,239,Success,0,1,Gujarat,Utilities,Bill Payment,Android,4G,Yes Bank,UPI-Pay,36-45,Authenticated
+2024-05-08,1118,Success,0,1,Tamil Nadu,Utilities,Bill Payment,iOS,WiFi,Yes Bank,Axis,46-55,Authenticated
+2024-09-16,342,Success,0,1,Rajasthan,Grocery,P2M,iOS,4G,ICICI,Axis,36-45,Authenticated
+2024-02-23,7101,Success,0,1,Tamil Nadu,Utilities,Bill Payment,Android,5G,UPI-Pay,SBI,26-35,Authenticated
+2024-06-07,370,Success,0,1,Maharashtra,Other,P2P,Android,4G,Paytm Bank,Axis,26-35,Authenticated
+2024-05-16,820,Success,0,1,Telangana,Other,Recharge,Android,4G,Axis,SBI,26-35,Authenticated
+2024-05-25,429,Success,0,1,Maharashtra,Utilities,Bill Payment,Android,4G,HDFC,UPI-Pay,26-35,Authenticated
+2024-09-24,234,Success,0,1,Maharashtra,Shopping,P2M,Android,5G,ICICI,SBI,26-35,Authenticated
+2024-12-03,959,Success,0,1,Gujarat,Fuel,P2M,Android,4G,PNB,HDFC,56+,Authenticated
+2024-04-12,1058,Success,0,1,Tamil Nadu,Entertainment,P2M,iOS,WiFi,PNB,UPI-Pay,18-25,Authenticated
+2024-11-24,8996,Success,0,1,Telangana,Grocery,P2M,Android,4G,Yes Bank,Axis,18-25,Authenticated
+2024-05-22,1449,Success,0,1,Uttar Pradesh,Other,P2P,Android,WiFi,HDFC,ICICI,18-25,Authenticated
+2024-09-11,5744,Success,0,1,Andhra Pradesh,Entertainment,P2M,Android,4G,UPI-Pay,Axis,36-45,Authenticated
+2024-02-11,1032,Success,0,1,Delhi,Other,Recharge,Android,4G,Paytm Bank,ICICI,18-25,Authenticated
+2024-04-09,471,Success,0,1,Delhi,Other,P2P,Android,4G,Paytm Bank,ICICI,26-35,Authenticated
+2024-11-07,253,Success,0,1,Uttar Pradesh,Other,P2P,Android,4G,Paytm Bank,HDFC,18-25,Authenticated
+2024-08-23,1142,Success,0,1,Maharashtra,Education,P2M,Android,5G,Paytm Bank,PNB,26-35,Authenticated
+2024-02-13,282,Success,0,1,Telangana,Other,P2P,Android,4G,SBI,ICICI,26-35,Authenticated
+2024-08-19,8954,Success,0,1,Tamil Nadu,Utilities,Bill Payment,Android,4G,Paytm Bank,Yes Bank,18-25,Authenticated
+2024-06-08,734,Success,0,1,Andhra Pradesh,Fuel,P2M,iOS,5G,Axis,ICICI,26-35,Authenticated
+2024-09-13,3827,Success,0,1,Uttar Pradesh,Utilities,Bill Payment,iOS,WiFi,PNB,UPI-Pay,26-35,Authenticated
+2024-09-18,591,Success,0,1,Tamil Nadu,Utilities,Bill Payment,iOS,4G,UPI-Pay,Yes Bank,26-35,Authenticated
+2024-05-17,673,Success,0,1,Delhi,Entertainment,P2M,iOS,5G,UPI-Pay,Paytm Bank,36-45,Authenticated
+2024-08-24,1190,Success,0,1,West Bengal,Other,P2P,Android,5G,Axis,PNB,26-35,Authenticated
+2024-12-31,426,Success,0,1,Karnataka,Utilities,Bill Payment,iOS,5G,Axis,UPI-Pay,36-45,Authenticated
+2024-05-30,1184,Success,0,1,Andhra Pradesh,Other,P2P,iOS,4G,Axis,HDFC,26-35,Authenticated
+2024-01-30,614,Success,0,1,Uttar Pradesh,Utilities,Bill Payment,Android,4G,ICICI,Paytm Bank,56+,Authenticated
+2024-01-25,1250,Success,0,1,Rajasthan,Other,P2P,Android,4G,PNB,ICICI,36-45,Authenticated
+2024-12-16,369,Success,0,1,Rajasthan,Other,P2P,iOS,WiFi,HDFC,Paytm Bank,18-25,Authenticated
+2024-10-07,1357,Success,0,1,West Bengal,Education,P2M,iOS,4G,SBI,HDFC,26-35,Authenticated
+2024-02-12,5378,Success,0,1,Uttar Pradesh,Other,P2P,iOS,4G,SBI,Paytm Bank,18-25,Authenticated
+2024-05-31,225,Success,0,1,Gujarat,Utilities,Bill Payment,Android,4G,Yes Bank,SBI,18-25,Authenticated
+2024-12-15,5498,Success,0,1,Tamil Nadu,Utilities,Bill Payment,Android,4G,Axis,PNB,18-25,Authenticated
+2024-08-19,3015,Success,0,1,Rajasthan,Utilities,Bill Payment,Android,5G,HDFC,Paytm Bank,26-35,Suspicious
+2024-09-26,557,Success,0,1,Karnataka,Other,Recharge,Android,4G,Axis,Yes Bank,26-35,Authenticated
+2024-03-15,785,Success,0,1,Telangana,Utilities,Bill Payment,Android,WiFi,ICICI,SBI,46-55,Authenticated
+2024-03-22,224,Success,0,1,Uttar Pradesh,Other,P2P,iOS,5G,PNB,HDFC,18-25,Authenticated
+2024-11-06,175,Success,0,1,Tamil Nadu,Other,P2P,iOS,4G,SBI,PNB,18-25,Authenticated
+2024-05-31,619,Success,0,1,West Bengal,Other,P2P,iOS,4G,PNB,Axis,46-55,Authenticated
+2024-11-13,887,Success,0,1,Delhi,Transport,P2M,Android,5G,Paytm Bank,Axis,46-55,Authenticated
+2024-03-22,103,Success,0,1,Tamil Nadu,Grocery,P2M,Android,5G,Axis,ICICI,26-35,Authenticated
+2024-10-07,1244,Success,0,1,West Bengal,Other,P2P,iOS,WiFi,UPI-Pay,PNB,36-45,Authenticated
+2024-04-13,675,Success,0,1,Rajasthan,Utilities,Bill Payment,Android,5G,SBI,Axis,26-35,Authenticated
+2024-06-01,1391,Success,0,1,Maharashtra,Other,P2P,Android,4G,Axis,SBI,26-35,Authenticated
+2024-05-31,476,Success,0,1,Gujarat,Other,P2P,Android,4G,UPI-Pay,Yes Bank,36-45,Authenticated
+2024-07-21,1381,Success,0,1,Telangana,Other,P2P,iOS,4G,Axis,SBI,18-25,Authenticated
+2024-11-01,2826,Success,0,1,Delhi,Shopping,P2M,Android,4G,UPI-Pay,Paytm Bank,18-25,Authenticated
+2024-02-23,140,Success,0,1,Telangana,Other,P2P,Android,5G,PNB,Axis,18-25,Authenticated
+2024-11-08,526,Success,0,1,Delhi,Healthcare,P2M,Android,4G,PNB,UPI-Pay,46-55,Authenticated
+2024-03-22,334,Success,0,1,Rajasthan,Utilities,Bill Payment,Android,4G,Axis,SBI,36-45,Authenticated
+2024-02-25,1167,Success,0,1,Maharashtra,Other,Recharge,iOS,4G,HDFC,PNB,26-35,Authenticated
+2024-03-23,1280,Success,0,1,Delhi,Food,P2M,Android,WiFi,SBI,HDFC,18-25,Authenticated
+2024-06-07,524,Success,0,1,Delhi,Other,P2P,iOS,5G,UPI-Pay,ICICI,36-45,Authenticated
+2024-05-11,573,Success,0,1,Tamil Nadu,Healthcare,P2M,Android,5G,ICICI,Yes Bank,26-35,Authenticated
+2024-10-28,981,Success,0,1,Tamil Nadu,Other,Recharge,iOS,4G,Paytm Bank,SBI,26-35,Authenticated
+2024-07-13,7776,Success,0,1,Uttar Pradesh,Education,P2M,Android,5G,ICICI,UPI-Pay,26-35,Authenticated
+2024-09-24,6128,Success,0,1,Delhi,Entertainment,P2M,Android,5G,HDFC,SBI,46-55,Authenticated
+2024-09-09,1225,Success,0,1,Telangana,Utilities,Bill Payment,Android,5G,PNB,SBI,18-25,Authenticated
+2024-02-05,1177,Success,0,1,Telangana,Other,P2P,Android,4G,Yes Bank,ICICI,26-35,Authenticated
+2024-07-21,277,Success,0,1,Karnataka,Other,P2M,iOS,4G,Axis,Yes Bank,18-25,Authenticated
+2024-09-13,1035,Success,0,1,Karnataka,Transport,P2M,Android,4G,UPI-Pay,Axis,26-35,Authenticated
+2024-04-24,4465,Success,0,1,Maharashtra,Education,P2M,Android,5G,SBI,Paytm Bank,36-45,Authenticated
+2024-08-25,1478,Success,0,1,Andhra Pradesh,Utilities,Bill Payment,Android,4G,ICICI,Yes Bank,56+,Authenticated
+2024-09-12,533,Success,0,1,Delhi,Other,P2P,iOS,4G,ICICI,PNB,26-35,Authenticated
+2024-12-28,587,Success,0,1,Rajasthan,Other,P2P,Android,WiFi,Paytm Bank,SBI,26-35,Authenticated
+2024-04-22,1242,Failed,0,0,Maharashtra,Utilities,P2M,Android,4G,Paytm Bank,ICICI,26-35,Authenticated
+2024-09-24,229,Success,0,1,Uttar Pradesh,Other,P2P,iOS,4G,UPI-Pay,HDFC,46-55,Authenticated
+2024-12-22,1397,Success,0,1,Gujarat,Utilities,Bill Payment,Android,WiFi,Yes Bank,Axis,18-25,Authenticated
+2024-07-01,1326,Success,0,1,Gujarat,Grocery,P2M,Android,4G,Axis,Paytm Bank,36-45,Authenticated
+2024-11-02,1738,Success,0,1,Karnataka,Healthcare,P2M,Android,5G,UPI-Pay,HDFC,26-35,Authenticated
+2024-02-06,323,Success,0,1,Karnataka,Utilities,Bill Payment,Android,5G,Axis,Yes Bank,26-35,Authenticated
+2024-09-13,893,Success,0,1,Uttar Pradesh,Utilities,Bill Payment,Android,5G,ICICI,PNB,46-55,Authenticated
+2024-11-17,199,Success,0,1,Maharashtra,Shopping,P2M,Android,5G,PNB,Yes Bank,26-35,Authenticated
+2024-08-09,1135,Success,0,1,Karnataka,Other,P2P,Android,5G,Axis,Yes Bank,26-35,Authenticated
+2024-06-21,369,Success,0,1,West Bengal,Other,P2P,Android,4G,Yes Bank,ICICI,18-25,Authenticated
+2024-11-25,599,Success,0,1,Karnataka,Transport,P2M,Android,4G,SBI,HDFC,36-45,Authenticated
+2024-09-03,1359,Success,0,1,Telangana,Transport,P2M,Android,5G,ICICI,SBI,46-55,Authenticated
+2024-06-01,481,Success,0,1,Tamil Nadu,Utilities,P2M,Android,WiFi,HDFC,ICICI,18-25,Authenticated
+2024-07-31,1087,Success,0,1,Andhra Pradesh,Education,P2M,Android,WiFi,SBI,Yes Bank,36-45,Authenticated
+2024-04-11,238,Success,0,1,Gujarat,Utilities,Bill Payment,iOS,4G,Axis,HDFC,46-55,Authenticated
+2024-04-29,1179,Success,0,1,Tamil Nadu,Other,Recharge,Android,4G,PNB,SBI,36-45,Authenticated
+2024-05-09,755,Success,0,1,Tamil Nadu,Utilities,Bill Payment,Android,4G,ICICI,Paytm Bank,36-45,Authenticated
+2024-04-20,1282,Success,0,1,Tamil Nadu,Transport,P2M,Android,5G,UPI-Pay,SBI,26-35,Authenticated
+2024-06-02,679,Success,0,1,Telangana,Other,Recharge,iOS,5G,Yes Bank,ICICI,46-55,Authenticated
+2024-04-30,1463,Success,0,1,West Bengal,Fuel,P2M,Android,5G,Axis,UPI-Pay,56+,Authenticated
+2024-07-31,905,Success,0,1,Tamil Nadu,Food,P2M,Android,4G,Axis,Paytm Bank,18-25,Authenticated
+2024-10-23,656,Success,0,1,Karnataka,Other,P2P,iOS,WiFi,ICICI,HDFC,18-25,Authenticated
+2024-08-01,7040,Success,0,1,Tamil Nadu,Other,P2P,Android,4G,ICICI,SBI,18-25,Authenticated
+2024-12-03,3644,Success,0,1,Andhra Pradesh,Other,P2P,Android,5G,HDFC,Paytm Bank,26-35,Authenticated
+2024-09-26,1200,Success,0,1,West Bengal,Utilities,Bill Payment,Android,WiFi,HDFC,Paytm Bank,18-25,Authenticated
+2024-12-07,4974,Success,0,1,Karnataka,Food,P2M,iOS,5G,ICICI,Axis,26-35,Authenticated
+2024-01-04,145,Success,0,1,Rajasthan,Other,P2P,iOS,5G,HDFC,ICICI,18-25,Authenticated
+2024-03-10,480,Success,0,1,Telangana,Other,P2P,Android,4G,ICICI,Yes Bank,18-25,Authenticated
+2024-02-04,327,Success,0,1,Telangana,Other,P2P,Android,5G,SBI,UPI-Pay,18-25,Authenticated
+2024-02-15,343,Success,0,1,Rajasthan,Shopping,P2M,Android,4G,HDFC,Axis,18-25,Authenticated
+2024-11-09,1057,Success,0,1,Tamil Nadu,Education,P2M,Android,4G,ICICI,Yes Bank,26-35,Authenticated
+2024-01-16,1464,Success,0,1,Delhi,Other,P2P,iOS,4G,Axis,UPI-Pay,56+,Authenticated
+2024-03-11,1423,Success,0,1,Maharashtra,Transport,P2M,iOS,4G,HDFC,ICICI,18-25,Authenticated
+2024-08-03,9706,Success,0,1,Delhi,Education,P2M,Android,4G,SBI,Yes Bank,18-25,Authenticated
+2024-07-25,687,Success,0,1,Uttar Pradesh,Other,P2P,iOS,WiFi,Yes Bank,ICICI,46-55,Authenticated
+2024-10-24,288,Success,0,1,Telangana,Other,P2P,Android,5G,PNB,SBI,36-45,Authenticated
+2024-02-15,1111,Success,0,1,Karnataka,Food,P2M,iOS,4G,Yes Bank,HDFC,26-35,Authenticated
+2024-10-29,170,Success,0,1,West Bengal,Other,P2P,iOS,5G,ICICI,Axis,18-25,Authenticated
+2024-06-03,275,Success,0,1,Karnataka,Utilities,Bill Payment,Android,5G,SBI,PNB,26-35,Authenticated
+2024-05-20,959,Success,0,1,Tamil Nadu,Other,P2P,Android,4G,Paytm Bank,HDFC,36-45,Authenticated
+2024-07-23,477,Success,0,1,Gujarat,Other,P2P,iOS,5G,PNB,UPI-Pay,26-35,Authenticated
+2024-09-14,1313,Success,0,1,Delhi,Education,P2M,Android,5G,UPI-Pay,HDFC,36-45,Authenticated
+2024-12-19,518,Success,0,1,Rajasthan,Shopping,P2M,Android,WiFi,HDFC,Paytm Bank,26-35,Authenticated
+2024-02-23,890,Success,0,1,Maharashtra,Healthcare,P2M,iOS,5G,SBI,HDFC,18-25,Authenticated
+2024-07-07,155,Success,0,1,West Bengal,Shopping,P2M,Android,5G,Yes Bank,SBI,18-25,Authenticated
+2024-05-27,416,Success,0,1,Karnataka,Utilities,P2M,Android,5G,SBI,HDFC,18-25,Authenticated
+2024-07-13,186,Success,0,1,Maharashtra,Education,P2M,Android,5G,HDFC,Paytm Bank,26-35,Authenticated
+2024-02-08,1718,Success,0,1,Telangana,Other,P2P,Android,4G,HDFC,UPI-Pay,26-35,Authenticated
+2024-09-30,776,Success,0,1,Rajasthan,Healthcare,P2M,Android,5G,Paytm Bank,SBI,36-45,Authenticated
+2024-01-24,1049,Success,0,1,Gujarat,Other,P2P,iOS,4G,Axis,ICICI,36-45,Authenticated
+2024-11-22,1251,Success,0,1,Gujarat,Grocery,P2M,Android,5G,UPI-Pay,Paytm Bank,26-35,Authenticated
+2024-08-25,279,Success,0,1,West Bengal,Grocery,P2M,Android,4G,ICICI,PNB,36-45,Suspicious
+2024-04-24,6224,Success,0,1,Delhi,Food,P2M,Android,5G,PNB,HDFC,26-35,Authenticated
+2024-03-20,329,Success,0,1,West Bengal,Other,P2P,iOS,WiFi,Axis,Yes Bank,36-45,Authenticated
+2024-05-29,9323,Success,0,1,Gujarat,Utilities,Bill Payment,Android,4G,HDFC,Paytm Bank,26-35,Authenticated
+2024-07-08,477,Success,0,1,Tamil Nadu,Healthcare,P2M,iOS,4G,ICICI,SBI,26-35,Authenticated
+2024-07-18,1280,Success,0,1,West Bengal,Utilities,Bill Payment,Android,4G,Yes Bank,PNB,36-45,Authenticated
+2024-05-23,1347,Success,0,1,Maharashtra,Other,Recharge,Android,4G,UPI-Pay,Paytm Bank,26-35,Authenticated
+2024-06-05,376,Success,0,1,Delhi,Food,P2M,Android,4G,SBI,UPI-Pay,26-35,Authenticated
+2024-10-28,4587,Success,0,1,Tamil Nadu,Other,P2P,Android,5G,Yes Bank,ICICI,26-35,Authenticated
+2024-10-13,729,Success,0,1,Gujarat,Education,P2M,Android,4G,HDFC,Paytm Bank,36-45,Authenticated
+2024-11-29,524,Success,0,1,Maharashtra,Other,P2P,Android,5G,SBI,Paytm Bank,18-25,Authenticated
