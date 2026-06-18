@@ -167,7 +167,7 @@ upi-transaction-dashboard/
 
 ## 👤 Contact & Links
 
-* **Simaran Shaikh** — Finance & Data Analytics student (B.Com) at Govt. College of Arts, Science & Commerce, Goa.
+* **Simaran Shaikh** — Financial Accounting Student (B.Com) at Don Bosco College, Panaji, Goa.
 * **Email**: simaranshaikh04@gmail.com
 * **LinkedIn**: [linkedin.com/in/simaranshaikh](https://linkedin.com/in/simaranshaikh)
 * **GitHub**: [github.com/Simaran-Shaikh-04](https://github.com/Simaran-Shaikh-04)
